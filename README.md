@@ -1,5 +1,5 @@
-Nativescript: Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript.
-for framework info go to: https://nativescript.org/
+# Demo Preview Video
+https://youtu.be/ObhQ2cl8_pc
 
 # nativescript-musapp-demo 
 - (it's a clone repo originally written in May 2019)
@@ -13,7 +13,6 @@ for framework info go to: https://nativescript.org/
 - Duration and Current position time indicator
 - Files listing
 - Visual - rotating artwork
-
 
 # run on iOS
 $tns run ios
@@ -29,3 +28,8 @@ $tns run ios
 [![N|Solid](https://uploads.workwork.fun/uploads/db258c516de247969e6ea88c286c923b_a2a983c9f8465abb52709656ed2a8ed2_1601027738125.PNG)](https://xr.workwork.fun)
 
 [![N|Solid](https://uploads.workwork.fun/uploads/6437a74c77084a5b963a695f44c8a99a_f6f3e3e5553ed5991b365d7c903abfac_1601027737874.PNG)](https://xr.workwork.fun)
+
+# Nativescript: 
+- Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript.
+for framework info go to: https://nativescript.org/
+
