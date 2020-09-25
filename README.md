@@ -1,6 +1,7 @@
 # nativescript-musapp-demo 
 - it's a clone of repo originally written in May 2019 to test audio api (https://github.com/nstudio/nativescript-audio)
 - templating in Vue.js (https://nativescript-vue.org/)
+- core of logic: https://github.com/sylwesterdigital/nativescript-musapp-demo/blob/master/app/components/App.vue
 
 # Demo - youtube video
 https://youtu.be/ObhQ2cl8_pc
