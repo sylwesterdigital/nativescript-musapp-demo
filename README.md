@@ -8,6 +8,7 @@ https://youtu.be/ObhQ2cl8_pc
 
 Features:
 - Playing audio files (mp3) from apps sandbox
+[![N|Solid](https://uploads.workwork.fun/uploads/1ef9af776c81495f848a606e11e850aa_e7f02aaae9e36dffa6d4b12d545cf7b8_1601029106651.png)](https://xr.workwork.fun)
 - Play, Pause, Stop,
 - Speed change 0-100%
 - Volume change 0-100%
