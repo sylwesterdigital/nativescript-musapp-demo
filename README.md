@@ -1,11 +1,11 @@
 # nativescript-musapp-demo 
-- (it's a clone of repo originally written in May 2019)
-- templating in Vue.js
+- it's a clone of repo originally written in May 2019 to test audio api (https://github.com/nstudio/nativescript-audio)
+- templating in Vue.js (https://nativescript-vue.org/)
 
-# Demo
+# Demo - youtube video
 https://youtu.be/ObhQ2cl8_pc
 
-# Features:
+Features:
 - Playing audio files (mp3) from apps sandbox
 - Play, Pause, Stop,
 - Speed change 0-100%
