@@ -1,9 +1,9 @@
-# Demo Preview Video
-https://youtu.be/ObhQ2cl8_pc
-
 # nativescript-musapp-demo 
-- (it's a clone repo originally written in May 2019)
+- (it's a clone of repo originally written in May 2019)
 - templating in Vue.js
+
+# Demo
+https://youtu.be/ObhQ2cl8_pc
 
 # Features:
 - Playing audio files (mp3) from apps sandbox
