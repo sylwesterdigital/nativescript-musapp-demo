@@ -1,5 +1,5 @@
 # nativescript-musapp-demo 
-- it's a clone of repo originally written in May 2019 to test audio api (https://github.com/nstudio/nativescript-audio)
+- it's a clone of repo (codename: Damstrin Sharp Music) originally written in May 2019 to test audio api (https://github.com/nstudio/nativescript-audio)
 - templating in Vue.js (https://nativescript-vue.org/)
 - core of logic: https://github.com/sylwesterdigital/nativescript-musapp-demo/blob/master/app/components/App.vue
 
@@ -33,4 +33,9 @@ $tns run ios
 # Nativescript: 
 - Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript.
 for framework info go to: https://nativescript.org/
+
+# Copyrights
+Sylwester K. Mielniczuk 2019
+https://mielniczuk.com/blog/me/?project=ios-damstrin-music-demo
+
 
