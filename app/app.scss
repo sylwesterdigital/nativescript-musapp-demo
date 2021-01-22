@@ -1,2 +1,154 @@
-// Global SCSS styling
-// @see https://docs.nativescript.org/ui/styling
+//@import "~@nativescript/theme/core";
+//@import "~@nativescript/theme/blue";
+
+// Place any CSS rules you want to apply on both iOS and Android here.
+// This is where the vast majority of your CSS code goes.
+
+// Font icon class
+.fab {
+    font-family: "Font Awesome 5 Brands", "fa-brands-400";
+    font-weight: 400;
+}
+
+.fas {
+    font-family: "Font Awesome 5 Free", "fa-solid-900";
+    font-weight: 900;
+}
+
+.far {
+    font-family: "Font Awesome 5 Free", "fa-regular-400";
+    font-weight: 400;
+}
+
+
+    @import '~@nativescript/theme/scss/variables/blue';
+	
+	@keyframes example {
+		from { transform: translate(400, 0); }
+		to { transform: translate(0, 0); }
+	}	
+	
+	GridLayout {
+		padding: 14;
+		padding-bottom: 0;
+		background: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,255,0.6) 46%,rgba(255,255,255,0.17) 95%,rgba(255,246,0,0.13) 100%);
+	}
+	
+	Page {
+        color: deeppink;
+		background-color: white;
+		font-family: Avenir;
+	}
+	
+    ActionBar {
+        background-color: white;
+        color: deeppink;
+        font-family: Avenir;
+      
+    }
+	
+	Progress {
+		color: linear-gradient(to right, rgba(254,252,234,1) 0%,rgba(241,218,54,1) 100%);
+		background-color: black;
+		transform: scaleY(4);
+		margin-top: 40;
+	}
+	
+	Button {
+		color: deeppink;
+		font-size: 18;
+		padding: 12;
+		background: white;
+		margin: 4;
+		border-radius: 8;
+		border-width: 2;
+		border-color: pink;
+	}
+	
+	.b-yellow {
+        background-color: red; 
+		background-color:rgba(255,246,0,0.22);
+	}	
+	
+	Image {
+		opacity: 0.35;
+	}
+	
+	Label {
+		color: deeppink;
+	}
+	
+	ListView {
+		background: white;
+		padding: 2;
+		animation-name: example;
+		animation-duration: 0.5;
+		animation-timing-function: cubic-bezier(0.1, 0.1, 0.1, 1);
+		animation-fill-mode: forwards;			
+	}
+	
+	.lv-lab {
+		color:deeppink;
+		text-align: left;
+		font-size: 12;
+		padding: 9;
+		background: white;
+		border-radius: 4;
+		border-width: 2;
+		border-top-width: 0;
+		border-color: pink;
+		margin-bottom: 2;
+	}
+	
+	.speedLabel {
+		text-align: center;
+		font-size: 10;
+		padding-bottom: 20;
+	}
+	
+	.volumeLabel {
+		text-align: center;
+		font-size: 10;
+		padding-bottom: 20;
+	}
+	
+	
+	.musicInfo {
+		color: deeppink;
+		font-size: 18;
+		text-align: center;
+	}
+	
+	.volumeSlider {
+		color: deeppink;
+		width: 80%;
+		text-align: center;
+		background: black;
+		transform: scale(0.6)
+	}
+	
+	.speedSlider {
+		color: deeppink;
+		width: 80%;
+		text-align: center;
+		background: black;
+		transform: scale(0.6)
+	}
+	
+	.copyRights {
+		color: pink;
+		text-align: center;
+		font-size: 8;
+	}
+	.coverInfo {
+		color:pink;
+		text-align: center;
+		font-size: 28;
+		color: deeppink;
+	}
+	.musicProgress {
+		color: green;
+		width: 70%;
+		text-align: center;
+		background: pink;
+	}

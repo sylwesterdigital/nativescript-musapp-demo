@@ -86,7 +86,7 @@
 		</data>
 		<key>Frameworks/MDFInternationalization.framework/MDFInternationalization</key>
 		<data>
-		jZVxp9bqHl7Vz5Afh/2kbzdAc9E=
+		4HD95X8lYU2b9yNABJoOSyWc+ww=
 		</data>
 		<key>Frameworks/MDFInternationalization.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Frameworks/MaterialComponents.framework/MaterialComponents</key>
 		<data>
-		LYgGaBPO1r2qwCH2+uIDJ3CDDX0=
+		MwAcG58w0faNqppX/Dll+TRp1Bo=
 		</data>
 		<key>Frameworks/MaterialComponents.framework/MaterialTabs.bundle/Resources/ar.lproj/MaterialTabs.strings</key>
 		<dict>
@@ -614,7 +614,7 @@
 		</data>
 		<key>Frameworks/NativeScript.framework/NativeScript</key>
 		<data>
-		MAneWDdxVJMbBmIgHxSoScE+KHQ=
+		6Ndo2cFfS8jgs6IvKdH95z307mQ=
 		</data>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -626,7 +626,7 @@
 		</data>
 		<key>Frameworks/SocketIO.framework/SocketIO</key>
 		<data>
-		/iVArg53cS/9lR1dlPLk2Dzm8KA=
+		vW8z6BYG+LgUDlPMFKmRYYJ56gU=
 		</data>
 		<key>Frameworks/SocketIO.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -638,7 +638,7 @@
 		</data>
 		<key>Frameworks/Starscream.framework/Starscream</key>
 		<data>
-		gtQkVvx+IV+fC0/IRvUhdqjvr50=
+		iZaiDeeZbW77o2yjs4tQZTgjDsg=
 		</data>
 		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -650,7 +650,7 @@
 		</data>
 		<key>Frameworks/TKLiveSync.framework/TKLiveSync</key>
 		<data>
-		q70xRWvrrktg32/DEUDXfnwhQZA=
+		m/sCHX9ZUlTzX2Py69KBbNFheQE=
 		</data>
 		<key>Frameworks/TKLiveSync.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -694,7 +694,7 @@
 		</data>
 		<key>Frameworks/TNSWidgets.framework/TNSWidgets</key>
 		<data>
-		fNLH/dlz8A8FiqzkiK9KU0R51/A=
+		B92FZLp1MZMfirR62VzsK1aUD2g=
 		</data>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -706,7 +706,7 @@
 		</data>
 		<key>Frameworks/Toast_Swift.framework/Toast_Swift</key>
 		<data>
-		K+1PZ0yjB84eeM5czF4lPk1DpDc=
+		Q0xrfeqftq8KDEehQqHNj4Nl9Es=
 		</data>
 		<key>Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -714,51 +714,51 @@
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		V+/cdSaalWWaMzlFxnj1v939b8U=
+		5aqLbJP05FiBm8r+Ktin85G55tI=
 		</data>
 		<key>Frameworks/libswiftCoreFoundation.dylib</key>
 		<data>
-		9wNbHBSi6rOmeZFxJRQf7MWwufs=
+		kwBIu1VEvJMh01MrT36r/a2JXA4=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		g5BxY45fQ90PV7pOsLXgr6u1dgY=
+		J6WJDulsqLdcGUHtdNLjRa6VXwI=
 		</data>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		3g2z63J3uZDOlh1s9Ri/+qCQAKo=
+		4WZQstFJ5Kco40GqDEV5TY3MDos=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		Q3mYlwySG7JZ1GwwH0UENBMpeBs=
+		s6D/+OS6E2VkAurSSD6pu/lGvWo=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		Dw0GdpZRil71old12cCKOCIaeNI=
+		P++BBGnRilPoV9MI0GFSB+Nsw8c=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		j5d3ZMyA3kZpC2l7m/XWOjdPtCo=
+		fdXy+0znv+xNJyv+udsj+zPKMDU=
 		</data>
 		<key>Frameworks/libswiftMetal.dylib</key>
 		<data>
-		oaNGzp599VLsNTmCXd5T1CTSf4g=
+		lG0c3GZ2/td6SSKGT71nZSXalXY=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		sbQzgEol4fsdKu160jbLe7yMrrg=
+		yDTDkfsOoAq8llMZsCWoREO6McU=
 		</data>
 		<key>Frameworks/libswiftQuartzCore.dylib</key>
 		<data>
-		kJUepZtEM7ZDMSoMRyIOOPeXT8Q=
+		3hApsJqCF/Yus1mTLz+Ow0cuZnQ=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		/C3W0+CmmzpOS2O29ifOQEsGveU=
+		xCRMfUS/ChSqoHyANUPOVL9X1qk=
 		</data>
 		<key>Frameworks/libswiftos.dylib</key>
 		<data>
-		t4+6aTAMljMXNpM4HZWUYv/ul4w=
+		vERIHyN4+y4fFL/dw2eKGmg7h0Y=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -766,7 +766,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		aMQQyqeKCJpn/UCa7kdKkZN5EaA=
+		VwSU5eptzCFt9867SeVoWRHagdM=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -774,7 +774,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		3uFbuVJLMecJzGh0HVDomOp2/hY=
+		7EtA5UB48f7W1cMKzvouL/rXsPA=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1062,7 +1062,7 @@
 		</data>
 		<key>app/runtime.js</key>
 		<data>
-		eJueWX7/In1Irigy2SXedu37KUs=
+		WlqqgIkuWP3XO/X7JKQ60cpBA9U=
 		</data>
 		<key>app/tns_modules/@nativescript/core/inspector_modules.js</key>
 		<data>
@@ -1316,11 +1316,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jZVxp9bqHl7Vz5Afh/2kbzdAc9E=
+			4HD95X8lYU2b9yNABJoOSyWc+ww=
 			</data>
 			<key>hash2</key>
 			<data>
-			3xazXoEtUNloSlH5BxIq5kwL8uaH/dUcYXKYUSNiU3s=
+			zVEtVipnogHzxYscdpFE6afMj4SWkucCfkMmyxS2tYk=
 			</data>
 		</dict>
 		<key>Frameworks/MDFInternationalization.framework/_CodeSignature/CodeResources</key>
@@ -1349,11 +1349,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LYgGaBPO1r2qwCH2+uIDJ3CDDX0=
+			MwAcG58w0faNqppX/Dll+TRp1Bo=
 			</data>
 			<key>hash2</key>
 			<data>
-			eb6UrGVQc11ofKsFNaGsLjbU5M/Y6vntbCdCcugeFvY=
+			YDp+bAQr3/4vSVifJ3sdpAsu7B/CIxMKc3YjhuCVsuo=
 			</data>
 		</dict>
 		<key>Frameworks/MaterialComponents.framework/MaterialTabs.bundle/Resources/ar.lproj/MaterialTabs.strings</key>
@@ -2110,11 +2110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MAneWDdxVJMbBmIgHxSoScE+KHQ=
+			6Ndo2cFfS8jgs6IvKdH95z307mQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			2BgSJEM2pc3X0XHgeT/2Mf1UhhKpT8yRkDgsaP9IhuI=
+			L0fZdtO6f8fFmUoT8mvYD5Z2Z/0dxKqDQHrSkAeDsds=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/_CodeSignature/CodeResources</key>
@@ -2143,11 +2143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/iVArg53cS/9lR1dlPLk2Dzm8KA=
+			vW8z6BYG+LgUDlPMFKmRYYJ56gU=
 			</data>
 			<key>hash2</key>
 			<data>
-			pMFVeFNXo3okF7zjegd5mLPw5Ni9uiQEzQBuqTIaBNg=
+			f0qP2esLZi0hEyZmEyJtimUnD5CUsaHRfntyZ4cMd9I=
 			</data>
 		</dict>
 		<key>Frameworks/SocketIO.framework/_CodeSignature/CodeResources</key>
@@ -2176,11 +2176,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gtQkVvx+IV+fC0/IRvUhdqjvr50=
+			iZaiDeeZbW77o2yjs4tQZTgjDsg=
 			</data>
 			<key>hash2</key>
 			<data>
-			vKkcryLld76IkHt1RNNmOksE5CAh57kpGf7liZhMy78=
+			aCED6bYnPLYGig25bgfAt14p46DvE98SyUQKkve6kCk=
 			</data>
 		</dict>
 		<key>Frameworks/Starscream.framework/_CodeSignature/CodeResources</key>
@@ -2209,11 +2209,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q70xRWvrrktg32/DEUDXfnwhQZA=
+			m/sCHX9ZUlTzX2Py69KBbNFheQE=
 			</data>
 			<key>hash2</key>
 			<data>
-			+iJPCgcrqCEhWY4+nymIISzJaqRjRwg4yLBvhbs9Rw8=
+			4TC2pGJJXdEM4vnNwBvF7YlxfJLBFOpFACszgNf7088=
 			</data>
 		</dict>
 		<key>Frameworks/TKLiveSync.framework/_CodeSignature/CodeResources</key>
@@ -2330,11 +2330,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fNLH/dlz8A8FiqzkiK9KU0R51/A=
+			B92FZLp1MZMfirR62VzsK1aUD2g=
 			</data>
 			<key>hash2</key>
 			<data>
-			G/k7s3u69w2g+BzQAFz+vPPVqd/Rjvto85e8YOEchag=
+			x3GJ0OBqEPIjj0LjcrHg/0G0H0u+qU4WLTIKkfNFhgw=
 			</data>
 		</dict>
 		<key>Frameworks/TNSWidgets.framework/_CodeSignature/CodeResources</key>
@@ -2363,11 +2363,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			K+1PZ0yjB84eeM5czF4lPk1DpDc=
+			Q0xrfeqftq8KDEehQqHNj4Nl9Es=
 			</data>
 			<key>hash2</key>
 			<data>
-			OX3a4R1p8i05w8saLiGVsdbntVHub5pi3IO4xQML6zk=
+			Wri0KnB0vF98aYqxywHxFGAIlwXb3CsGQ5oFVBQs7KA=
 			</data>
 		</dict>
 		<key>Frameworks/Toast_Swift.framework/_CodeSignature/CodeResources</key>
@@ -2385,143 +2385,143 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V+/cdSaalWWaMzlFxnj1v939b8U=
+			5aqLbJP05FiBm8r+Ktin85G55tI=
 			</data>
 			<key>hash2</key>
 			<data>
-			mJrAQsNYhoWqevICNX4rUgTjftX2ueNZ20WBcV28d1U=
+			RdoVRuWoVnXuwNl5tfyB5H63N4H3ZPbYPSn9DMVBsUk=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreFoundation.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9wNbHBSi6rOmeZFxJRQf7MWwufs=
+			kwBIu1VEvJMh01MrT36r/a2JXA4=
 			</data>
 			<key>hash2</key>
 			<data>
-			lGfPCdN4Mx3CluDsqq3sBrw258rFfHQP3eTLLG4/dRI=
+			+iDJ4YjqUPuGCK8juxVuQcbplea2tS4hYaLkUTEJx7Y=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g5BxY45fQ90PV7pOsLXgr6u1dgY=
+			J6WJDulsqLdcGUHtdNLjRa6VXwI=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ZobgvaD1bhGW6fH8Csg4ziNSWNvbqT2HkPSXsijhfs=
+			RZWwnX79tCeauhH8kLWYs3hcSeUzkCszNbDvCxhzl5Y=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3g2z63J3uZDOlh1s9Ri/+qCQAKo=
+			4WZQstFJ5Kco40GqDEV5TY3MDos=
 			</data>
 			<key>hash2</key>
 			<data>
-			Axn+pYJYkb8WhQ9lXan3ak99M4RRx3XhQ/Uv3IpLGgg=
+			/U8+/lq24WWffrGBtOTHoRUKDjpP5aVpoEEH5KrLjV0=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q3mYlwySG7JZ1GwwH0UENBMpeBs=
+			s6D/+OS6E2VkAurSSD6pu/lGvWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			z/wzrt3H7OAhnzVjhWDyzW6iQYCY49GUWVQ8RWH6DOE=
+			DHbRu8eK6Plj7XiKS4FpZgUN2lJixg8IRxFCkcKMEHQ=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dw0GdpZRil71old12cCKOCIaeNI=
+			P++BBGnRilPoV9MI0GFSB+Nsw8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			FjPFbe3fiBH7JwdjlzzAu6MrhgMF7CZh8ssCcg+QHwo=
+			rRXwFb8nxpcqYUZWLyQd29FYWT6z+M8CkaiCBbJR3ao=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j5d3ZMyA3kZpC2l7m/XWOjdPtCo=
+			fdXy+0znv+xNJyv+udsj+zPKMDU=
 			</data>
 			<key>hash2</key>
 			<data>
-			BXb7MchRzzlTB8MrOYwfPI5+it7gxV0TSF/AOzdT6Hk=
+			vp3CJ5hMXcUsKzK0gRxWXr17olgQg5kqC8NQgdZzQVo=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftMetal.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oaNGzp599VLsNTmCXd5T1CTSf4g=
+			lG0c3GZ2/td6SSKGT71nZSXalXY=
 			</data>
 			<key>hash2</key>
 			<data>
-			RAQw13taBAOMp3Fox4lbUdvFIy04JygwTmD9J5m/s2c=
+			L4DCEwxtaU+v/BQ8Xs8PIeL7bGKgvNSvN9AkMN+n6RU=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sbQzgEol4fsdKu160jbLe7yMrrg=
+			yDTDkfsOoAq8llMZsCWoREO6McU=
 			</data>
 			<key>hash2</key>
 			<data>
-			lH+Q7VKg6/AWpP/xTHMA6PWRgM0w2AaINJ63K9dK5i4=
+			9XRv+yAlf5vxqJyqk3KHXqBfkB7RmK2v0VvRKH8i+LQ=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftQuartzCore.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kJUepZtEM7ZDMSoMRyIOOPeXT8Q=
+			3hApsJqCF/Yus1mTLz+Ow0cuZnQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ap2f/RXI5vf1PEAAHqGey2mJ4oqILEz/mYeP01eXXfU=
+			w1av6moE+an4eY8kN5S6s48ObZaTO41ySdBzNRPVNf8=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/C3W0+CmmzpOS2O29ifOQEsGveU=
+			xCRMfUS/ChSqoHyANUPOVL9X1qk=
 			</data>
 			<key>hash2</key>
 			<data>
-			L+dKqv93DdAHYI7DI0xDwMYNeBSerIS50TXAfomECFE=
+			g7qm8ESYzpntj1554SUxVhcpyILUEl+xFKo07BR7+0g=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftos.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t4+6aTAMljMXNpM4HZWUYv/ul4w=
+			vERIHyN4+y4fFL/dw2eKGmg7h0Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			fXAXLKVxJ/DixXZE24TvtGuw7T3x+mXZM8hcQlQLFVk=
+			znd3ow++mS1I5LGJ7N4cuDoGiGB6l+nfZNss5pmZqMU=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aMQQyqeKCJpn/UCa7kdKkZN5EaA=
+			VwSU5eptzCFt9867SeVoWRHagdM=
 			</data>
 			<key>hash2</key>
 			<data>
-			boTO8TTK+b/tS6njYTdk9MKay/LPMi4SwtReoR/KxU4=
+			s/g5sgJZH6Q9XoHmDnMatlw1OIolgnmJuHicCQhjkXA=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -2539,11 +2539,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3uFbuVJLMecJzGh0HVDomOp2/hY=
+			7EtA5UB48f7W1cMKzvouL/rXsPA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ePIzWiW0g9PFUGDz6W7xvFaJg/l2awSL0s2dBQ3PuoM=
+			9I/6nyd0en+7X1bLVk7KLS6vhEpfvRmakLiwJmeyI9k=
 			</data>
 		</dict>
 		<key>app/App_Resources/Android/src/main/res/drawable-hdpi/background.png</key>
@@ -3320,11 +3320,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eJueWX7/In1Irigy2SXedu37KUs=
+			WlqqgIkuWP3XO/X7JKQ60cpBA9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			fYCX4PscybI6tY5PYni3lsaQcf0F3GcY86CJois3Ssg=
+			kEpMyvtwJRxM7q3TcKfqvmGaT9pYRih2LKcK/nxJYyc=
 			</data>
 		</dict>
 		<key>app/tns_modules/@nativescript/core/inspector_modules.js</key>

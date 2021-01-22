@@ -130,11 +130,11 @@
 				858B833718CA111C00AB12DE /* nativescriptmusappdemo */,
 				858B833018CA111C00AB12DE /* Frameworks */,
 				858B832F18CA111C00AB12DE /* Products */,
-				B7199AA6611C4A7F8B6FC333 /* TNSNativeSource */,
 				A83FCA26C9C747CE87F6DEAF /* nativescript-socketio */,
 				7C38FAA7F4414A76A3E1A766 /* nativescript-toasty */,
 				ABB714DC2C0347CAAD83081B /* @nativescript/core */,
 				4A0445AE0F9D28578AA1B9E3 /* Pods */,
+				A8B38C7BE3484729BA7ED127 /* TNSNativeSource */,
 			);
 			sourceTree = "<group>";
 		};
@@ -203,13 +203,6 @@
 			name = "@nativescript/core";
 			sourceTree = "<group>";
 		};
-		B7199AA6611C4A7F8B6FC333 /* TNSNativeSource */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = TNSNativeSource;
-			sourceTree = "<group>";
-		};
 		E070579D1B39A9D000214BF1 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -218,6 +211,13 @@
 				0D39CF24EE004E699628729B /* build.xcconfig */,
 			);
 			name = Resources;
+			sourceTree = "<group>";
+		};
+		A8B38C7BE3484729BA7ED127 /* TNSNativeSource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = TNSNativeSource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -523,10 +523,11 @@
 					"\"$(SRCROOT)/../../node_modules/nativescript-socketio/platforms/ios/src\"",
 					"\"$(SRCROOT)/../../node_modules/nativescript-toasty/platforms/ios/src\"",
 					"\"$(SRCROOT)/../../node_modules/@nativescript/core/platforms/ios/src\"",
+					"\"$(SRCROOT)/../../app/App_Resources/iOS/src\"",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/nativescriptmusappdemo/nativescriptmusappdemo-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = org.nativescript.musapp;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.nativescript.musapp";
 				PRODUCT_NAME = nativescriptmusappdemo;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
@@ -557,10 +558,11 @@
 					"\"$(SRCROOT)/../../node_modules/nativescript-socketio/platforms/ios/src\"",
 					"\"$(SRCROOT)/../../node_modules/nativescript-toasty/platforms/ios/src\"",
 					"\"$(SRCROOT)/../../node_modules/@nativescript/core/platforms/ios/src\"",
+					"\"$(SRCROOT)/../../app/App_Resources/iOS/src\"",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/nativescriptmusappdemo/nativescriptmusappdemo-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = org.nativescript.musapp;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.nativescript.musapp";
 				PRODUCT_NAME = nativescriptmusappdemo;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
