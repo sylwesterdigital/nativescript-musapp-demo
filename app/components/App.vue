@@ -21,7 +21,7 @@
 			
 		<Label class='musicInfo' row="1" col="0" colSpan="3" textWrap="true">{{musicInfo.info}}</Label>
 
-		<Progress v-bind:style="{ color: progressDynColor, transform: 'scaleY('+progressScaleY+')' }" class="musicProgress" row="1" col="0" colSpan="3" :value="currentProgress" @touch="skipToNewTime" />	
+		<Progress ref="myProgress" v-bind:style="{ color: progressDynColor, transform: 'scaleY('+progressScaleY+')' }" class="musicProgress" row="1" col="0" colSpan="3" :value="currentProgress" @tap="skipToNewTime" />	
 
 		<Button class="b-yellow" row="4" col="0" rowSpan="1" @tap="playMusic()">{{playMsg}}</Button>
 		<Button class="b-yellow" row="4" col="1" rowSpan="1" @tap="pauseMusic()">{{pauseMsg}}</Button>
@@ -49,7 +49,11 @@
 
 <script>
 	
-	const screen = require("tns-core-modules/platform").screen;
+    import { Utils } from "@nativescript/core";
+    //import { device, screen, isAndroid, isIOS } from "tns-core-modules/platform";
+  
+	const platform = require("tns-core-modules/platform");
+    //const platformModule = require("tns-core-modules/platform")
 	
 	const fs = require("tns-core-modules/file-system");
 	//const documents = fs.knownFolders.documents();
@@ -75,6 +79,7 @@
 				currentSongDurationInfo: '',
 				currentSongDuration: 0,
 				player: playerTNS,
+                platform: platform,
 
 				currentTime: playerTNS.currentTime,
 				musicInfo: {info:"No info"},
@@ -125,6 +130,9 @@
 			
 			this.$nextTick(function () {
 				console.log('entire view has been rendered');
+                
+                
+              
 			}),
 				
 			this.interval = setInterval(() => {
@@ -153,7 +161,13 @@
 			
 			skipToNewTime(args) {
 			
-				let perc = (args.getX()/screen.mainScreen.widthDIPs)*1.1;
+                let scale = this.platform.Screen.mainScreen.scale;
+                let progressWidth = this.$refs.myProgress.nativeView.getActualSize().width;
+                let posX = args.getX()*scale;
+				let perc = (posX/progressWidth);
+              
+                console.log('perc:', perc)
+              
 				if(perc <= 0) {
 					perc = 0
 				}
@@ -162,11 +176,17 @@
 				}
 				let newTime =  this.currentSongDuration * perc;
 				
-				console.log('New time:', newTime);
+				//console.log('New time:', newTime);
 				
 				this.player.seekTo(newTime);
 				
 				//console.log('skipToNewTime', args.getX());
+              
+                // _screen: <UIScreen: 0x10690ad70; bounds = {{0, 0}, {414, 896}}; mode = <UIScreenMode: 0x2820f43c0; size = 828.000000 x 1792.000000>>
+                //console.log(args.getX()*this.platform.Screen.mainScreen.scale, perc, this.platform.Screen.mainScreen.widthDIPs, this.platform.Screen.mainScreen.scale);
+              
+                //console.log(this.$refs.myProgress.nativeView.getMeasuredWidth(), args.getX(), this.$refs.myProgress.nativeView.getActualSize().width, this.platform.Screen.mainScreen.widthDIPs)
+              
 				
 			},
 			
