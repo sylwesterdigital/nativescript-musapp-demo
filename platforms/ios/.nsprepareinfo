@@ -1,8 +1,7 @@
 {
-	"time": "Tue Apr 21 2020 02:28:47 GMT+0100 (British Summer Time)",
+	"time": "Fri Jan 22 2021 19:04:39 GMT+0000 (Greenwich Mean Time)",
 	"nativePlatformStatus": "3",
-	"release": false,
 	"changesRequireBuild": true,
-	"projectFileHash": "09747f86417ff67aa7a04335657337ad87115b57f684b27293507de95264ad0f",
-	"changesRequireBuildTime": "Tue Apr 21 2020 02:28:47 GMT+0100 (British Summer Time)"
+	"projectFileHash": "121928f1de9fd2dbb5f08035bb0e1a49817b449cdd0e1d3886646c6cda549742",
+	"changesRequireBuildTime": "Fri Jan 22 2021 19:04:39 GMT+0000 (Greenwich Mean Time)"
 }

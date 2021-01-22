@@ -1,24 +1,39 @@
 use_frameworks!
 
-target "musapp" do
-# Begin Podfile - /Users/misiak/Desktop/2020/apps/musapp/node_modules/nativescript-socketio/platforms/ios/Podfile
+target "nativescriptmusappdemo" do
+# Begin Podfile - /Users/misiak/Desktop/2021/nativescript-musapp-demo/node_modules/nativescript-socketio/platforms/ios/Podfile
 pod 'Socket.IO-Client-Swift', :git => 'https://github.com/triniwiz/socket.io-client-swift.git'
 
 # End Podfile
 
-# Begin Podfile - /Users/misiak/Desktop/2020/apps/musapp/node_modules/nativescript-toasty/platforms/ios/Podfile
+# Begin Podfile - /Users/misiak/Desktop/2021/nativescript-musapp-demo/node_modules/nativescript-toasty/platforms/ios/Podfile
 pod 'Toast-Swift', :git => 'https://github.com/triniwiz/Toast-Swift.git'
 
 # End Podfile
 
-# NativeScriptPlatformSection /Users/misiak/Desktop/2020/apps/musapp/node_modules/@nativescript/core/platforms/ios/Podfile with 9.0
+# NativeScriptPlatformSection /Users/misiak/Desktop/2021/nativescript-musapp-demo/node_modules/@nativescript/core/platforms/ios/Podfile with 9.0
 platform :ios, '9.0'
 # End NativeScriptPlatformSection
 
-# Begin Podfile - /Users/misiak/Desktop/2020/apps/musapp/node_modules/@nativescript/core/platforms/ios/Podfile
+# Begin Podfile - /Users/misiak/Desktop/2021/nativescript-musapp-demo/node_modules/@nativescript/core/platforms/ios/Podfile
 # platform :ios, '9.0'
 use_frameworks!
 
 pod 'MaterialComponents/Tabs', '~> 94.5'
+# End Podfile
+
+post_install do |installer|
+  post_installNativeScript_CLI_Architecture_Exclusions_0 installer
+end
+
+# Begin Podfile - /Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Podfile-exclusions
+def post_installNativeScript_CLI_Architecture_Exclusions_0 (installer)
+  installer.pods_project.build_configurations.each do |config|
+    config.build_settings.delete "VALID_ARCHS"
+    config.build_settings["EXCLUDED_ARCHS_x86_64"] = "arm64 arm64e"
+    config.build_settings["EXCLUDED_ARCHS[sdk=iphonesimulator*]"] = "i386 armv6 armv7 armv7s armv8 $(EXCLUDED_ARCHS_$(NATIVE_ARCH_64_BIT))"
+    config.build_settings["EXCLUDED_ARCHS[sdk=iphoneos*]"] = "i386 armv6 armv7 armv7s armv8 x86_64"
+  end
+end
 # End Podfile
 end

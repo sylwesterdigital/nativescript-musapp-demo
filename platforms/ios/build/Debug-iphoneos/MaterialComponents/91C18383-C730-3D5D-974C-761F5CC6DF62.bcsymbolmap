@@ -1,0 +1,2300 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.0 (clang-1200.0.32.27)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk
+iPhoneOS14.2.sdk
+/Users/misiak/Library/Developer/Xcode/DerivedData/nativescriptmusappdemo-ggaxbvfyzcswfvdvclcqfrlwrluy/Build/Intermediates.noindex/ArchiveIntermediates/nativescriptmusappdemo/IntermediateBuildFilesPath/Pods.build/Debug-iphoneos/MaterialComponents.build/DerivedSources/MaterialComponents_vers.c
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods
++[CAMediaTimingFunction(MDCAnimationTiming) mdc_functionWithType:]
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_SELECTOR_REFERENCES_.7
+__OBJC_$_CATEGORY_CLASS_METHODS_CAMediaTimingFunction_$_MDCAnimationTiming
+__OBJC_$_CATEGORY_CAMediaTimingFunction_$_MDCAnimationTiming
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/AnimationTiming/src/CAMediaTimingFunction+MDCAnimationTiming.m
+MaterialComponents/components/AnimationTiming/src/CAMediaTimingFunction+MDCAnimationTiming.m
+__OBJC_METACLASS_RO_$_PodsDummy_MaterialComponents
+__OBJC_CLASS_RO_$_PodsDummy_MaterialComponents
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/Target Support Files/MaterialComponents/MaterialComponents-dummy.m
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/private/Math/src/MaterialMathDummy.m
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/ShadowElevations/src/MaterialShadowElevationsDummy.m
++[MDCFontScaler scalerForMaterialTextStyle:]
+-[MDCFontScaler initForMaterialTextStyle:]
+-[MDCFontScaler scaledFontWithFont:]
+-[MDCFontScaler scaledValueForValue:]
+-[MDCFontScaler description]
+-[MDCFontScaler .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_CLASSLIST_REFERENCES_$_.54
+_OBJC_SELECTOR_REFERENCES_.58
+__OBJC_$_CLASS_METHODS_MDCFontScaler
+__OBJC_METACLASS_RO_$_MDCFontScaler
+__OBJC_$_INSTANCE_METHODS_MDCFontScaler
+_OBJC_IVAR_$_MDCFontScaler._scalingCurve
+_OBJC_IVAR_$_MDCFontScaler._textStyle
+__OBJC_$_INSTANCE_VARIABLES_MDCFontScaler
+__OBJC_CLASS_RO_$_MDCFontScaler
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Typography/src/MDCFontScaler.m
+MaterialComponents/components/Typography/src/MDCFontScaler.m
++[MDCFontTraits initialize]
++[MDCFontTraits traitsWithPointSize:weight:leading:tracking:]
+-[MDCFontTraits initWithPointSize:weight:leading:tracking:]
++[MDCFontTraits traitsForTextStyle:sizeCategory:]
+-[MDCFontTraits pointSize]
+-[MDCFontTraits weight]
+-[MDCFontTraits leading]
+-[MDCFontTraits tracking]
+__body1Traits
+_OBJC_SELECTOR_REFERENCES_.5
+__body2Traits
+__buttonTraits
+__captionTraits
+__display1Traits
+__display2Traits
+__display3Traits
+__display4Traits
+__headlineTraits
+__subheadlineTraits
+__titleTraits
+_OBJC_CLASSLIST_REFERENCES_$_.6
+_OBJC_SELECTOR_REFERENCES_.8
+__styleTable
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.22
+__OBJC_$_CLASS_METHODS_MDCFontTraits
+__OBJC_METACLASS_RO_$_MDCFontTraits
+__OBJC_$_INSTANCE_METHODS_MDCFontTraits
+_OBJC_IVAR_$_MDCFontTraits._pointSize
+_OBJC_IVAR_$_MDCFontTraits._weight
+_OBJC_IVAR_$_MDCFontTraits._leading
+_OBJC_IVAR_$_MDCFontTraits._tracking
+__OBJC_$_INSTANCE_VARIABLES_MDCFontTraits
+__OBJC_$_PROP_LIST_MDCFontTraits
+__OBJC_CLASS_RO_$_MDCFontTraits
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Typography/src/private/MDCFontTraits.m
+MaterialComponents/components/Typography/src/private/MDCFontTraits.h
+MaterialComponents/components/Typography/src/private/MDCFontTraits.m
+-[MDCInkGestureRecognizer initWithTarget:action:]
+-[MDCInkGestureRecognizer touchStartLocationInView:]
+-[MDCInkGestureRecognizer touchesBegan:withEvent:]
+-[MDCInkGestureRecognizer touchesMoved:withEvent:]
+-[MDCInkGestureRecognizer touchesEnded:withEvent:]
+-[MDCInkGestureRecognizer touchesCancelled:withEvent:]
+-[MDCInkGestureRecognizer isTouchWithinTargetBounds]
+-[MDCInkGestureRecognizer effectiveTargetBounds]
+-[MDCInkGestureRecognizer dragCancelDistance]
+-[MDCInkGestureRecognizer setDragCancelDistance:]
+-[MDCInkGestureRecognizer cancelOnDragOut]
+-[MDCInkGestureRecognizer setCancelOnDragOut:]
+-[MDCInkGestureRecognizer targetBounds]
+-[MDCInkGestureRecognizer setTargetBounds:]
+_OBJC_IVAR_$_MDCInkGestureRecognizer._cancelOnDragOut
+_OBJC_IVAR_$_MDCInkGestureRecognizer._dragCancelDistance
+_OBJC_IVAR_$_MDCInkGestureRecognizer._targetBounds
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_IVAR_$_MDCInkGestureRecognizer._touchStartLocation
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_IVAR_$_MDCInkGestureRecognizer._touchCurrentLocation
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+__OBJC_METACLASS_RO_$_MDCInkGestureRecognizer
+__OBJC_$_INSTANCE_METHODS_MDCInkGestureRecognizer
+__OBJC_$_INSTANCE_VARIABLES_MDCInkGestureRecognizer
+__OBJC_$_PROP_LIST_MDCInkGestureRecognizer
+__OBJC_CLASS_RO_$_MDCInkGestureRecognizer
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Ink/src/MDCInkGestureRecognizer.m
+MaterialComponents/components/Ink/src/MDCInkGestureRecognizer.h
+MaterialComponents/components/Ink/src/MDCInkGestureRecognizer.m
+-[MDCInkLayer init]
+-[MDCInkLayer initWithLayer:]
+-[MDCInkLayer initWithCoder:]
+-[MDCInkLayer setNeedsLayout]
+-[MDCInkLayer setRadiiWithRect:]
+_MDCHypot
+-[MDCInkLayer startAnimationAtPoint:]
+-[MDCInkLayer startInkAtPoint:animated:]
+_CGRectMake
+_CGPointMake
+___40-[MDCInkLayer startInkAtPoint:animated:]_block_invoke
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+-[MDCInkLayer changeAnimationAtPoint:]
+-[MDCInkLayer endAnimationAtPoint:]
+-[MDCInkLayer endInkAtPoint:animated:]
+___38-[MDCInkLayer endInkAtPoint:animated:]_block_invoke
+-[MDCInkLayer animationDelegate]
+-[MDCInkLayer setAnimationDelegate:]
+-[MDCInkLayer isStartAnimationActive]
+-[MDCInkLayer endAnimationDelay]
+-[MDCInkLayer setEndAnimationDelay:]
+-[MDCInkLayer finalRadius]
+-[MDCInkLayer setFinalRadius:]
+-[MDCInkLayer initialRadius]
+-[MDCInkLayer setInitialRadius:]
+-[MDCInkLayer maxRippleRadius]
+-[MDCInkLayer setMaxRippleRadius:]
+-[MDCInkLayer inkColor]
+-[MDCInkLayer setInkColor:]
+-[MDCInkLayer .cxx_destruct]
+_MDCInkLayerOpacityString
+_MDCInkLayerPositionString
+_MDCInkLayerScaleString
+_OBJC_IVAR_$_MDCInkLayer._inkColor
+_OBJC_IVAR_$_MDCInkLayer._endAnimationDelay
+_OBJC_IVAR_$_MDCInkLayer._finalRadius
+_OBJC_IVAR_$_MDCInkLayer._initialRadius
+_OBJC_IVAR_$_MDCInkLayer._startAnimationActive
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_IVAR_$_MDCInkLayer._maxRippleRadius
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_CLASSLIST_REFERENCES_$_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_CLASSLIST_REFERENCES_$_.56
+_OBJC_CLASSLIST_REFERENCES_$_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_MDCInkLayerStartScalePositionDuration
+_OBJC_SELECTOR_REFERENCES_.69
+_MDCInkLayerCommonDuration
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_CLASSLIST_REFERENCES_$_.86
+_OBJC_CLASSLIST_REFERENCES_$_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_CLASSLIST_REFERENCES_$_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_CLASSLIST_REFERENCES_$_.99
+_OBJC_SELECTOR_REFERENCES_.101
+___block_descriptor_40_e8_32s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_MDCInkLayerStartFadeHalfBeginTimeFadeOutDuration
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_MDCInkLayerEndFadeOutDuration
+_OBJC_IVAR_$_MDCInkLayer._animationDelegate
+__OBJC_METACLASS_RO_$_MDCInkLayer
+__OBJC_$_INSTANCE_METHODS_MDCInkLayer
+__OBJC_$_INSTANCE_VARIABLES_MDCInkLayer
+__OBJC_$_PROP_LIST_MDCInkLayer
+__OBJC_CLASS_RO_$_MDCInkLayer
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Ink/src/private/MDCInkLayer.m
+MaterialComponents/components/Ink/src/private/MDCInkLayer.m
+MaterialComponents/components/Ink/src/private/MDCInkLayer.h
+__38-[MDCInkLayer endInkAtPoint:animated:]_block_invoke
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__40-[MDCInkLayer startInkAtPoint:animated:]_block_invoke
+CGPointMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+CGRectMake
+MDCHypot
+MaterialComponents/components/private/Math/src/MDCMath.h
+-[MDCInkTouchController dragCancelDistance]
+-[MDCInkTouchController setDragCancelDistance:]
+-[MDCInkTouchController cancelsOnDragOut]
+-[MDCInkTouchController setCancelsOnDragOut:]
+-[MDCInkTouchController targetBounds]
+-[MDCInkTouchController setTargetBounds:]
+-[MDCInkTouchController initWithView:]
+-[MDCInkTouchController dealloc]
+-[MDCInkTouchController addInkView]
+-[MDCInkTouchController cancelInkTouchProcessing]
+-[MDCInkTouchController inkViewAtTouchLocation:]
+-[MDCInkTouchController handleInkGesture:]
+___42-[MDCInkTouchController handleInkGesture:]_block_invoke
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
+___CGPointEqualToPoint
+-[MDCInkTouchController cancelInkGestureWithRecognizer:]
+-[MDCInkTouchController touchBeganAtPoint:touchLocation:]
+-[MDCInkTouchController gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer:]
+-[MDCInkTouchController gestureRecognizerShouldBegin:]
+-[MDCInkTouchController gestureRecognizer:shouldRequireFailureOfGestureRecognizer:]
+-[MDCInkTouchController inkView]
+-[MDCInkTouchController view]
+-[MDCInkTouchController defaultInkView]
+-[MDCInkTouchController setDefaultInkView:]
+-[MDCInkTouchController delegate]
+-[MDCInkTouchController setDelegate:]
+-[MDCInkTouchController delaysInkSpread]
+-[MDCInkTouchController setDelaysInkSpread:]
+-[MDCInkTouchController requiresFailureOfScrollViewGestures]
+-[MDCInkTouchController setRequiresFailureOfScrollViewGestures:]
+-[MDCInkTouchController gestureRecognizer]
+-[MDCInkTouchController addedInkView]
+-[MDCInkTouchController setAddedInkView:]
+-[MDCInkTouchController shouldRespondToTouch]
+-[MDCInkTouchController setShouldRespondToTouch:]
+-[MDCInkTouchController previousLocation]
+-[MDCInkTouchController setPreviousLocation:]
+-[MDCInkTouchController .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_CLASSLIST_REFERENCES_$_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+___block_descriptor_64_e8_32s40s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_CLASSLIST_REFERENCES_$_.88
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_CLASSLIST_REFERENCES_$_.93
+_OBJC_CLASSLIST_REFERENCES_$_.94
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_UIGestureRecognizerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIGestureRecognizerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIGestureRecognizerDelegate
+__OBJC_PROTOCOL_$_UIGestureRecognizerDelegate
+__OBJC_LABEL_PROTOCOL_$_UIGestureRecognizerDelegate
+__OBJC_CLASS_PROTOCOLS_$_MDCInkTouchController
+__OBJC_METACLASS_RO_$_MDCInkTouchController
+__OBJC_$_INSTANCE_METHODS_MDCInkTouchController
+_OBJC_IVAR_$_MDCInkTouchController._delaysInkSpread
+_OBJC_IVAR_$_MDCInkTouchController._requiresFailureOfScrollViewGestures
+_OBJC_IVAR_$_MDCInkTouchController._shouldRespondToTouch
+_OBJC_IVAR_$_MDCInkTouchController._view
+_OBJC_IVAR_$_MDCInkTouchController._defaultInkView
+_OBJC_IVAR_$_MDCInkTouchController._delegate
+_OBJC_IVAR_$_MDCInkTouchController._gestureRecognizer
+_OBJC_IVAR_$_MDCInkTouchController._addedInkView
+_OBJC_IVAR_$_MDCInkTouchController._previousLocation
+__OBJC_$_INSTANCE_VARIABLES_MDCInkTouchController
+__OBJC_$_PROP_LIST_MDCInkTouchController
+__OBJC_CLASS_RO_$_MDCInkTouchController
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Ink/src/MDCInkTouchController.m
+MaterialComponents/components/Ink/src/MDCInkTouchController.m
+MaterialComponents/components/Ink/src/MDCInkTouchController.h
+__CGPointEqualToPoint
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
+__42-[MDCInkTouchController handleInkGesture:]_block_invoke
+dispatch_get_main_queue
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/dispatch/queue.h
++[MDCInkView layerClass]
+-[MDCInkView initWithFrame:]
+-[MDCInkView initWithCoder:]
+-[MDCInkView commonMDCInkViewInit]
+-[MDCInkView layoutSubviews]
+-[MDCInkView traitCollectionDidChange:]
+-[MDCInkView setInkStyle:]
+-[MDCInkView setInkColor:]
+-[MDCInkView inkColor]
+-[MDCInkView maxRippleRadius]
+-[MDCInkView setMaxRippleRadius:]
+_MDCCGFloatEqual
+-[MDCInkView usesCustomInkCenter]
+-[MDCInkView setUsesCustomInkCenter:]
+-[MDCInkView customInkCenter]
+-[MDCInkView setCustomInkCenter:]
+-[MDCInkView inkLayer]
+-[MDCInkView startTouchBeganAnimationAtPoint:completion:]
+-[MDCInkView startTouchBeganAtPoint:animated:withCompletion:]
+-[MDCInkView startTouchEndAtPoint:animated:withCompletion:]
+-[MDCInkView startTouchEndedAnimationAtPoint:completion:]
+-[MDCInkView cancelAllAnimationsAnimated:]
+-[MDCInkView defaultInkColor]
+___29-[MDCInkView defaultInkColor]_block_invoke
++[MDCInkView injectedInkViewForView:]
+-[MDCInkView legacyInkLayerAnimationDidStart:]
+-[MDCInkView legacyInkLayerAnimationDidEnd:]
+-[MDCInkView inkLayerAnimationDidStart:]
+-[MDCInkView inkLayerAnimationDidEnd:]
+-[MDCInkView actionForLayer:forKey:]
+-[MDCInkView animationDelegate]
+-[MDCInkView setAnimationDelegate:]
+-[MDCInkView inkStyle]
+-[MDCInkView usesLegacyInkRipple]
+-[MDCInkView setUsesLegacyInkRipple:]
+-[MDCInkView traitCollectionDidChangeBlock]
+-[MDCInkView setTraitCollectionDidChangeBlock:]
+-[MDCInkView maskLayer]
+-[MDCInkView setMaskLayer:]
+-[MDCInkView startInkRippleCompletionBlock]
+-[MDCInkView setStartInkRippleCompletionBlock:]
+-[MDCInkView endInkRippleCompletionBlock]
+-[MDCInkView setEndInkRippleCompletionBlock:]
+-[MDCInkView activeInkLayer]
+-[MDCInkView setActiveInkLayer:]
+-[MDCInkView .cxx_destruct]
+-[MDCInkPendingAnimation runActionForKey:object:arguments:]
+-[MDCInkPendingAnimation animationSourceLayer]
+-[MDCInkPendingAnimation setAnimationSourceLayer:]
+-[MDCInkPendingAnimation keyPath]
+-[MDCInkPendingAnimation setKeyPath:]
+-[MDCInkPendingAnimation fromValue]
+-[MDCInkPendingAnimation setFromValue:]
+-[MDCInkPendingAnimation toValue]
+-[MDCInkPendingAnimation setToValue:]
+-[MDCInkPendingAnimation .cxx_destruct]
+_MDCFabs
+_OBJC_IVAR_$_MDCInkView._usesLegacyInkRipple
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_IVAR_$_MDCInkView._maskLayer
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_IVAR_$_MDCInkView._inkStyle
+_OBJC_IVAR_$_MDCInkView._maxRippleRadius
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_defaultInkColor.defaultInkColor
+_defaultInkColor.onceToken
+___block_descriptor_32_e5_v8?0l
+___block_literal_global
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_CLASSLIST_REFERENCES_$_.122
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_CLASSLIST_REFERENCES_$_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_IVAR_$_MDCInkView._animationDelegate
+_OBJC_IVAR_$_MDCInkView._traitCollectionDidChangeBlock
+_OBJC_IVAR_$_MDCInkView._startInkRippleCompletionBlock
+_OBJC_IVAR_$_MDCInkView._endInkRippleCompletionBlock
+_OBJC_IVAR_$_MDCInkView._activeInkLayer
+__OBJC_$_CLASS_METHODS_MDCInkView
+__OBJC_$_PROTOCOL_REFS_CALayerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_CALayerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_CALayerDelegate
+__OBJC_PROTOCOL_$_CALayerDelegate
+__OBJC_LABEL_PROTOCOL_$_CALayerDelegate
+__OBJC_$_PROTOCOL_REFS_MDCInkLayerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_MDCInkLayerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCInkLayerDelegate
+__OBJC_PROTOCOL_$_MDCInkLayerDelegate
+__OBJC_LABEL_PROTOCOL_$_MDCInkLayerDelegate
+__OBJC_$_PROTOCOL_REFS_MDCLegacyInkLayerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_MDCLegacyInkLayerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCLegacyInkLayerDelegate
+__OBJC_PROTOCOL_$_MDCLegacyInkLayerDelegate
+__OBJC_LABEL_PROTOCOL_$_MDCLegacyInkLayerDelegate
+__OBJC_CLASS_PROTOCOLS_$_MDCInkView
+__OBJC_METACLASS_RO_$_MDCInkView
+__OBJC_$_INSTANCE_METHODS_MDCInkView
+__OBJC_$_INSTANCE_VARIABLES_MDCInkView
+__OBJC_$_PROP_LIST_MDCInkView
+__OBJC_CLASS_RO_$_MDCInkView
+_OBJC_SELECTOR_REFERENCES_.287
+_OBJC_SELECTOR_REFERENCES_.291
+_OBJC_CLASSLIST_REFERENCES_$_.292
+_OBJC_SELECTOR_REFERENCES_.294
+_OBJC_SELECTOR_REFERENCES_.296
+_OBJC_SELECTOR_REFERENCES_.298
+_OBJC_SELECTOR_REFERENCES_.300
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_CAAction
+__OBJC_$_PROTOCOL_METHOD_TYPES_CAAction
+__OBJC_PROTOCOL_$_CAAction
+__OBJC_LABEL_PROTOCOL_$_CAAction
+__OBJC_CLASS_PROTOCOLS_$_MDCInkPendingAnimation
+__OBJC_METACLASS_RO_$_MDCInkPendingAnimation
+__OBJC_$_INSTANCE_METHODS_MDCInkPendingAnimation
+_OBJC_IVAR_$_MDCInkPendingAnimation._animationSourceLayer
+_OBJC_IVAR_$_MDCInkPendingAnimation._keyPath
+_OBJC_IVAR_$_MDCInkPendingAnimation._fromValue
+_OBJC_IVAR_$_MDCInkPendingAnimation._toValue
+__OBJC_$_INSTANCE_VARIABLES_MDCInkPendingAnimation
+__OBJC_$_PROP_LIST_MDCInkPendingAnimation
+__OBJC_CLASS_RO_$_MDCInkPendingAnimation
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Ink/src/MDCInkView.m
+MDCFabs
+MaterialComponents/components/Ink/src/MDCInkView.m
+MaterialComponents/components/Ink/src/MDCInkView.h
+__29-[MDCInkView defaultInkColor]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/usr/include/dispatch/once.h
+MDCCGFloatEqual
++[MDCItemBar defaultHeightForStyle:]
+-[MDCItemBar initWithFrame:]
+-[MDCItemBar initWithCoder:]
+-[MDCItemBar commonItemBarInit]
+___isPlatformOrVariantPlatformVersionAtLeast
+-[MDCItemBar dealloc]
+-[MDCItemBar applyStyle:]
+-[MDCItemBar setItems:]
+-[MDCItemBar setAlignment:]
+-[MDCItemBar setAlignment:animated:]
+-[MDCItemBar setSelectedItem:]
+-[MDCItemBar setSelectedItem:animated:]
+-[MDCItemBar accessibilityTraits]
+-[MDCItemBar accessibilityElementForItem:]
+-[MDCItemBar observeValueForKeyPath:ofObject:change:context:]
+-[MDCItemBar layoutSubviews]
+___CGSizeEqualToSize
+-[MDCItemBar sizeThatFits:]
+-[MDCItemBar intrinsicContentSize]
+_CGSizeMake
+-[MDCItemBar safeAreaInsetsDidChange]
+-[MDCItemBar didMoveToWindow]
+-[MDCItemBar traitCollectionDidChange:]
+-[MDCItemBar tintColorDidChange]
+-[MDCItemBar mdf_setSemanticContentAttribute:]
+-[MDCItemBar collectionView:shouldSelectItemAtIndexPath:]
+-[MDCItemBar collectionView:didSelectItemAtIndexPath:]
+-[MDCItemBar collectionView:numberOfItemsInSection:]
+-[MDCItemBar collectionView:cellForItemAtIndexPath:]
+-[MDCItemBar collectionView:willDisplayCell:forItemAtIndexPath:]
+-[MDCItemBar collectionView:didEndDisplayingCell:forItemAtIndexPath:]
+-[MDCItemBar collectionView:layout:sizeForItemAtIndexPath:]
+-[MDCItemBar adjustedCollectionViewWidth]
+_UIEdgeInsetsInsetRect
++[MDCItemBar observableItemKeys]
+___32+[MDCItemBar observableItemKeys]_block_invoke
+-[MDCItemBar startObservingItems]
+-[MDCItemBar stopObservingItems]
+-[MDCItemBar horizontalSizeClass]
+-[MDCItemBar selectItemAtIndex:animated:]
+-[MDCItemBar itemAtIndexPath:]
+-[MDCItemBar indexForItem:]
+-[MDCItemBar indexPathForItemAtIndex:]
+-[MDCItemBar reload]
+-[MDCItemBar generatedFlowLayout]
+-[MDCItemBar didSelectItemAtIndex:animateTransition:]
+___53-[MDCItemBar didSelectItemAtIndex:animateTransition:]_block_invoke
+-[MDCItemBar updateAlignmentAnimated:]
+-[MDCItemBar updateCurrentAlignment]
+-[MDCItemBar updateSelectionIndicatorToIndex:]
+-[MDCItemBar updateFlowLayoutMetricsAnimated:]
+___46-[MDCItemBar updateFlowLayoutMetricsAnimated:]_block_invoke
+-[MDCItemBar updateScrollProperties]
+-[MDCItemBar updateFlowLayoutMetrics]
+-[MDCItemBar leadingAlignedInsetsForHorizontalSizeClass:]
+_UIEdgeInsetsMake
+-[MDCItemBar justifiedInsets]
+-[MDCItemBar centeredInsetsForHorizontalSizeClass:]
+-[MDCItemBar centerSelectedInsets]
+-[MDCItemBar totalWidthOfAllItems]
+-[MDCItemBar configureCell:]
+-[MDCItemBar configureVisibleCells]
+-[MDCItemBar updateColors]
+-[MDCItemBar updateSelectionIndicatorVisibility]
+-[MDCItemBar tabBar]
+-[MDCItemBar setTabBar:]
+-[MDCItemBar items]
+-[MDCItemBar selectedItem]
+-[MDCItemBar delegate]
+-[MDCItemBar setDelegate:]
+-[MDCItemBar alignment]
+-[MDCItemBar style]
+-[MDCItemBar setStyle:]
+-[MDCItemBar collectionView]
+-[MDCItemBar setCollectionView:]
+-[MDCItemBar .cxx_destruct]
+-[MDCItemBarFlowLayout prepareLayout]
+-[MDCItemBarFlowLayout layoutAttributesForItemAtIndexPath:]
+-[MDCItemBarFlowLayout layoutAttributesForElementsInRect:]
+___58-[MDCItemBarFlowLayout layoutAttributesForElementsInRect:]_block_invoke
+-[MDCItemBarFlowLayout collectionViewContentSize]
+-[MDCItemBarFlowLayout shouldInvalidateLayoutForBoundsChange:]
+-[MDCItemBarFlowLayout flippedAttributesFromAttributes:]
+-[MDCItemBarFlowLayout shouldEnforceRightToLeftLayout]
+-[MDCItemBarFlowLayout shouldRelayoutAttributesForRTL]
+-[MDCItemBarFlowLayout shouldPadContentSizeForRTL]
+-[MDCItemBarFlowLayout paddedAttributesFromAttributes:]
+-[MDCItemBarFlowLayout adjustedCollectionViewBounds]
+-[MDCItemBarFlowLayout .cxx_destruct]
+___clang_at_available_requires_core_foundation_framework
+_kItemReuseID
+_OBJC_IVAR_$_MDCItemBar._alignment
+_OBJC_IVAR_$_MDCItemBar._style
+_OBJC_IVAR_$_MDCItemBar._items
+_OBJC_IVAR_$_MDCItemBar._flowLayout
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_IVAR_$_MDCItemBar._collectionView
+_OBJC_CLASSLIST_REFERENCES_$_.42
+_OBJC_IVAR_$_MDCItemBar._selectionIndicator
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_IVAR_$_MDCItemBar._selectedItem
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_CLASSLIST_REFERENCES_$_.67
+_OBJC_CLASSLIST_REFERENCES_$_.70
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_CLASSLIST_REFERENCES_$_.97
+_kItemPropertyContext
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_IVAR_$_MDCItemBar._lastSize
+_OBJC_IVAR_$_MDCItemBar._lastAdjustedCollectionViewWidth
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_IVAR_$_MDCItemBar._currentAlignment
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_observableItemKeys.onceToken
+_observableItemKeys.s_keys
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_CLASSLIST_REFERENCES_$_.210
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_SELECTOR_REFERENCES_.218
+_OBJC_SELECTOR_REFERENCES_.220
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_SELECTOR_REFERENCES_.226
+_OBJC_SELECTOR_REFERENCES_.228
+_OBJC_SELECTOR_REFERENCES_.230
+_OBJC_SELECTOR_REFERENCES_.232
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.244
+_OBJC_CLASSLIST_REFERENCES_$_.245
+_OBJC_SELECTOR_REFERENCES_.247
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_CLASSLIST_REFERENCES_$_.250
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_SELECTOR_REFERENCES_.256
+_OBJC_SELECTOR_REFERENCES_.258
+_OBJC_SELECTOR_REFERENCES_.260
+___block_descriptor_48_e8_32s_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.261
+_OBJC_SELECTOR_REFERENCES_.263
+_OBJC_CLASSLIST_REFERENCES_$_.264
+_OBJC_SELECTOR_REFERENCES_.266
+_OBJC_SELECTOR_REFERENCES_.268
+_OBJC_SELECTOR_REFERENCES_.270
+_OBJC_CLASSLIST_REFERENCES_$_.271
+_OBJC_SELECTOR_REFERENCES_.273
+_OBJC_SELECTOR_REFERENCES_.275
+_OBJC_SELECTOR_REFERENCES_.277
+_OBJC_SELECTOR_REFERENCES_.279
+_OBJC_SELECTOR_REFERENCES_.281
+_OBJC_SELECTOR_REFERENCES_.283
+_OBJC_SELECTOR_REFERENCES_.285
+_OBJC_SELECTOR_REFERENCES_.289
+_OBJC_SELECTOR_REFERENCES_.302
+_OBJC_SELECTOR_REFERENCES_.304
+_OBJC_SELECTOR_REFERENCES_.306
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_SELECTOR_REFERENCES_.310
+_OBJC_SELECTOR_REFERENCES_.312
+_OBJC_SELECTOR_REFERENCES_.314
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_SELECTOR_REFERENCES_.318
+_OBJC_SELECTOR_REFERENCES_.320
+_OBJC_SELECTOR_REFERENCES_.322
+_OBJC_SELECTOR_REFERENCES_.324
+_OBJC_SELECTOR_REFERENCES_.326
+_OBJC_SELECTOR_REFERENCES_.328
+_OBJC_SELECTOR_REFERENCES_.330
+_OBJC_SELECTOR_REFERENCES_.332
+_OBJC_IVAR_$_MDCItemBar._tabBar
+_OBJC_IVAR_$_MDCItemBar._delegate
+__OBJC_$_CLASS_METHODS_MDCItemBar
+__OBJC_$_PROTOCOL_REFS_UICollectionViewDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_UICollectionViewDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UICollectionViewDataSource
+__OBJC_$_PROTOCOL_METHOD_TYPES_UICollectionViewDataSource
+__OBJC_PROTOCOL_$_UICollectionViewDataSource
+__OBJC_LABEL_PROTOCOL_$_UICollectionViewDataSource
+__OBJC_$_PROTOCOL_REFS_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIScrollViewDelegate
+__OBJC_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_REFS_UICollectionViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UICollectionViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UICollectionViewDelegate
+__OBJC_PROTOCOL_$_UICollectionViewDelegate
+__OBJC_LABEL_PROTOCOL_$_UICollectionViewDelegate
+__OBJC_$_PROTOCOL_REFS_UICollectionViewDelegateFlowLayout
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UICollectionViewDelegateFlowLayout
+__OBJC_$_PROTOCOL_METHOD_TYPES_UICollectionViewDelegateFlowLayout
+__OBJC_PROTOCOL_$_UICollectionViewDelegateFlowLayout
+__OBJC_LABEL_PROTOCOL_$_UICollectionViewDelegateFlowLayout
+__OBJC_CLASS_PROTOCOLS_$_MDCItemBar
+__OBJC_METACLASS_RO_$_MDCItemBar
+__OBJC_$_INSTANCE_METHODS_MDCItemBar
+__OBJC_$_INSTANCE_VARIABLES_MDCItemBar
+__OBJC_$_PROP_LIST_MDCItemBar
+__OBJC_CLASS_RO_$_MDCItemBar
+_OBJC_SELECTOR_REFERENCES_.560
+_OBJC_SELECTOR_REFERENCES_.562
+_OBJC_SELECTOR_REFERENCES_.564
+_OBJC_CLASSLIST_REFERENCES_$_.565
+_OBJC_SELECTOR_REFERENCES_.567
+_OBJC_SELECTOR_REFERENCES_.569
+_OBJC_SELECTOR_REFERENCES_.571
+_OBJC_SELECTOR_REFERENCES_.573
+_OBJC_SELECTOR_REFERENCES_.575
+_OBJC_SELECTOR_REFERENCES_.577
+_OBJC_IVAR_$_MDCItemBarFlowLayout._correctedAttributesForIndexPath
+_OBJC_IVAR_$_MDCItemBarFlowLayout._isPaddingCollectionViewContentSize
+_OBJC_IVAR_$_MDCItemBarFlowLayout._paddedCollectionViewContentSize
+_OBJC_SELECTOR_REFERENCES_.579
+_OBJC_SELECTOR_REFERENCES_.581
+_OBJC_CLASSLIST_REFERENCES_$_.582
+_OBJC_SELECTOR_REFERENCES_.584
+___block_descriptor_64_e59_B24?0"UICollectionViewLayoutAttributes"8"NSDictionary"16l
+_OBJC_SELECTOR_REFERENCES_.588
+_OBJC_SELECTOR_REFERENCES_.590
+_OBJC_SELECTOR_REFERENCES_.592
+_OBJC_SELECTOR_REFERENCES_.594
+_OBJC_SELECTOR_REFERENCES_.596
+_OBJC_SELECTOR_REFERENCES_.598
+_OBJC_CLASSLIST_REFERENCES_$_.599
+_OBJC_SELECTOR_REFERENCES_.601
+_OBJC_SELECTOR_REFERENCES_.603
+_OBJC_SELECTOR_REFERENCES_.605
+_OBJC_SELECTOR_REFERENCES_.607
+_OBJC_SELECTOR_REFERENCES_.611
+__OBJC_METACLASS_RO_$_MDCItemBarFlowLayout
+__OBJC_$_INSTANCE_METHODS_MDCItemBarFlowLayout
+__OBJC_$_INSTANCE_VARIABLES_MDCItemBarFlowLayout
+__OBJC_CLASS_RO_$_MDCItemBarFlowLayout
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/private/MDCItemBar.m
+MaterialComponents/components/Tabs/src/private/MDCItemBar.m
+__58-[MDCItemBarFlowLayout layoutAttributesForElementsInRect:]_block_invoke
+MaterialComponents/components/Tabs/src/private/MDCItemBar.h
+UIEdgeInsetsMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGeometry.h
+__46-[MDCItemBar updateFlowLayoutMetricsAnimated:]_block_invoke
+__53-[MDCItemBar didSelectItemAtIndex:animateTransition:]_block_invoke
+__32+[MDCItemBar observableItemKeys]_block_invoke
+UIEdgeInsetsInsetRect
+CGSizeMake
+__CGSizeEqualToSize
+-[MDCItemBarBadge initWithFrame:]
+-[MDCItemBarBadge commonMDCTabBarItemBadgeInit]
+-[MDCItemBarBadge badgeXPaddingForRadius:]
+_MDCRound
+-[MDCItemBarBadge layoutSubviews]
+-[MDCItemBarBadge sizeThatFits:]
+-[MDCItemBarBadge setBadgeValue:]
+-[MDCItemBarBadge setBadgeColor:]
+-[MDCItemBarBadge badgeValue]
+-[MDCItemBarBadge badgeColor]
+-[MDCItemBarBadge badgeValueLabel]
+-[MDCItemBarBadge .cxx_destruct]
+_OBJC_IVAR_$_MDCItemBarBadge._badgeColor
+_OBJC_IVAR_$_MDCItemBarBadge._badgeValueLabel
+_OBJC_IVAR_$_MDCItemBarBadge._badgeValue
+__OBJC_METACLASS_RO_$_MDCItemBarBadge
+__OBJC_$_INSTANCE_METHODS_MDCItemBarBadge
+__OBJC_$_INSTANCE_VARIABLES_MDCItemBarBadge
+__OBJC_$_PROP_LIST_MDCItemBarBadge
+__OBJC_CLASS_RO_$_MDCItemBarBadge
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/private/MDCItemBarBadge.m
+MaterialComponents/components/Tabs/src/private/MDCItemBarBadge.m
+MaterialComponents/components/Tabs/src/private/MDCItemBarBadge.h
+MDCRound
+-[MDCItemBarCell initWithFrame:]
++[MDCItemBarCell sizeThatFits:item:style:]
+-[MDCItemBarCell setTitle:]
+-[MDCItemBarCell setImage:]
+-[MDCItemBarCell setBadgeValue:]
+-[MDCItemBarCell contentFrame]
+-[MDCItemBarCell applyStyle:]
+-[MDCItemBarCell updateTitleLines]
+-[MDCItemBarCell updateWithItem:atIndex:count:]
+-[MDCItemBarCell layoutSubviews]
+_MDCRoundCenterWithBoundsAndScale
+_MDCRectAlignToScale
+-[MDCItemBarCell tintColorDidChange]
+-[MDCItemBarCell didMoveToWindow]
+-[MDCItemBarCell prepareForReuse]
+-[MDCItemBarCell setSelected:]
+-[MDCItemBarCell setHighlighted:]
+-[MDCItemBarCell accessibilityLabel]
++[MDCItemBarCell minimumEdgeInsets]
++[MDCItemBarCell localizedStringWithKey:]
++[MDCItemBarCell displayedTitleForTitle:style:]
+-[MDCItemBarCell updateSubviews]
+-[MDCItemBarCell updateColors]
+-[MDCItemBarCell updateTitleTextColor]
+-[MDCItemBarCell updateImageTintColor]
+-[MDCItemBarCell updateBadgeColor]
+-[MDCItemBarCell updateTransformsAnimated:]
+___43-[MDCItemBarCell updateTransformsAnimated:]_block_invoke
+___43-[MDCItemBarCell updateTransformsAnimated:]_block_invoke.234
+-[MDCItemBarCell updateTitleFont]
+-[MDCItemBarCell updateInk]
+-[MDCItemBarCell updateRipple]
+-[MDCItemBarCell updateEnableRippleBehavior]
+-[MDCItemBarCell updateAccessibilityTraits]
+-[MDCItemBarCell updateDisplayedImage]
+-[MDCItemBarCell updateDisplayedTitle]
+-[MDCItemBarCell title]
+-[MDCItemBarCell image]
+-[MDCItemBarCell badgeValue]
+-[MDCItemBarCell imageView]
+-[MDCItemBarCell setImageView:]
+-[MDCItemBarCell badge]
+-[MDCItemBarCell setBadge:]
+-[MDCItemBarCell inkTouchController]
+-[MDCItemBarCell setInkTouchController:]
+-[MDCItemBarCell rippleTouchController]
+-[MDCItemBarCell setRippleTouchController:]
+-[MDCItemBarCell style]
+-[MDCItemBarCell setStyle:]
+-[MDCItemBarCell itemIndex]
+-[MDCItemBarCell setItemIndex:]
+-[MDCItemBarCell itemCount]
+-[MDCItemBarCell setItemCount:]
+-[MDCItemBarCell titleLabel]
+-[MDCItemBarCell setTitleLabel:]
+-[MDCItemBarCell badgeLabel]
+-[MDCItemBarCell .cxx_destruct]
+_MDCPointRoundWithScale
+_MDCFloor
+_MDCCeil
+_kMDCItemBarStringKeyAccessibilityTabElementLabel
+_kMDCItemBarStringKeyAccessibilityTabPositionFormat
+_kMDCItemBarStringsTableName
+_kResourceBundleName
+_kStringTableName
+_OBJC_IVAR_$_MDCItemBarCell._style
+_OBJC_IVAR_$_MDCItemBarCell._title
+_OBJC_IVAR_$_MDCItemBarCell._itemIndex
+_OBJC_IVAR_$_MDCItemBarCell._inkTouchController
+_OBJC_CLASSLIST_REFERENCES_$_.18
+_OBJC_IVAR_$_MDCItemBarCell._rippleTouchController
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_kImageSize
+_kEdgeInsets
+_OBJC_IVAR_$_MDCItemBarCell._image
+_OBJC_IVAR_$_MDCItemBarCell._badgeValue
+_OBJC_IVAR_$_MDCItemBarCell._badge
+_OBJC_IVAR_$_MDCItemBarCell._titleLabel
+_OBJC_IVAR_$_MDCItemBarCell._imageView
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_IVAR_$_MDCItemBarCell._itemCount
+_OBJC_CLASSLIST_REFERENCES_$_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_CLASSLIST_REFERENCES_$_.161
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_CLASSLIST_REFERENCES_$_.168
+_OBJC_CLASSLIST_REFERENCES_$_.175
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_CLASSLIST_REFERENCES_$_.190
+_OBJC_CLASSLIST_REFERENCES_$_.195
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_CLASSLIST_REFERENCES_$_.202
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_SELECTOR_REFERENCES_.222
+___block_descriptor_144_e8_32s_e5_v8?0l
+___block_descriptor_48_e8_32s_e8_v12?0B8l
+_OBJC_CLASSLIST_REFERENCES_$_.236
+_OBJC_CLASSLIST_REFERENCES_$_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_CLASSLIST_REFERENCES_$_.244
+_OBJC_SELECTOR_REFERENCES_.246
+_OBJC_SELECTOR_REFERENCES_.248
+_OBJC_SELECTOR_REFERENCES_.250
+_OBJC_SELECTOR_REFERENCES_.262
+_OBJC_SELECTOR_REFERENCES_.264
+_OBJC_SELECTOR_REFERENCES_.272
+_OBJC_SELECTOR_REFERENCES_.274
+_OBJC_SELECTOR_REFERENCES_.276
+_OBJC_SELECTOR_REFERENCES_.278
+_OBJC_SELECTOR_REFERENCES_.280
+_OBJC_SELECTOR_REFERENCES_.282
+_OBJC_SELECTOR_REFERENCES_.284
+_OBJC_SELECTOR_REFERENCES_.286
+_OBJC_SELECTOR_REFERENCES_.288
+_OBJC_SELECTOR_REFERENCES_.290
+_OBJC_IVAR_$_MDCItemBarCell._badgeLabel
+__OBJC_$_CLASS_METHODS_MDCItemBarCell
+__OBJC_METACLASS_RO_$_MDCItemBarCell
+__OBJC_$_INSTANCE_METHODS_MDCItemBarCell
+__OBJC_$_INSTANCE_VARIABLES_MDCItemBarCell
+__OBJC_$_PROP_LIST_MDCItemBarCell
+__OBJC_CLASS_RO_$_MDCItemBarCell
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/private/MDCItemBarCell.m
+MDCCeil
+MDCFloor
+MDCPointRoundWithScale
+MaterialComponents/components/Tabs/src/private/MDCItemBarCell.m
+MaterialComponents/components/Tabs/src/private/MDCItemBarCell+Private.h
+MaterialComponents/components/Tabs/src/private/MDCItemBarCell.h
+__43-[MDCItemBarCell updateTransformsAnimated:]_block_invoke.234
+__43-[MDCItemBarCell updateTransformsAnimated:]_block_invoke
+MDCRectAlignToScale
+MDCRoundCenterWithBoundsAndScale
+-[MDCItemBarStyle init]
+-[MDCItemBarStyle copyWithZone:]
+-[MDCItemBarStyle defaultHeight]
+-[MDCItemBarStyle setDefaultHeight:]
+-[MDCItemBarStyle shouldDisplaySelectionIndicator]
+-[MDCItemBarStyle setShouldDisplaySelectionIndicator:]
+-[MDCItemBarStyle selectionIndicatorColor]
+-[MDCItemBarStyle setSelectionIndicatorColor:]
+-[MDCItemBarStyle selectionIndicatorTemplate]
+-[MDCItemBarStyle setSelectionIndicatorTemplate:]
+-[MDCItemBarStyle maximumItemWidth]
+-[MDCItemBarStyle setMaximumItemWidth:]
+-[MDCItemBarStyle shouldDisplayTitle]
+-[MDCItemBarStyle setShouldDisplayTitle:]
+-[MDCItemBarStyle shouldDisplayImage]
+-[MDCItemBarStyle setShouldDisplayImage:]
+-[MDCItemBarStyle shouldDisplayBadge]
+-[MDCItemBarStyle setShouldDisplayBadge:]
+-[MDCItemBarStyle shouldGrowOnSelection]
+-[MDCItemBarStyle setShouldGrowOnSelection:]
+-[MDCItemBarStyle titleColor]
+-[MDCItemBarStyle setTitleColor:]
+-[MDCItemBarStyle selectedTitleColor]
+-[MDCItemBarStyle setSelectedTitleColor:]
+-[MDCItemBarStyle imageTintColor]
+-[MDCItemBarStyle setImageTintColor:]
+-[MDCItemBarStyle selectedImageTintColor]
+-[MDCItemBarStyle setSelectedImageTintColor:]
+-[MDCItemBarStyle selectedTitleFont]
+-[MDCItemBarStyle setSelectedTitleFont:]
+-[MDCItemBarStyle unselectedTitleFont]
+-[MDCItemBarStyle setUnselectedTitleFont:]
+-[MDCItemBarStyle badgeColor]
+-[MDCItemBarStyle setBadgeColor:]
+-[MDCItemBarStyle inkStyle]
+-[MDCItemBarStyle setInkStyle:]
+-[MDCItemBarStyle inkColor]
+-[MDCItemBarStyle setInkColor:]
+-[MDCItemBarStyle rippleStyle]
+-[MDCItemBarStyle setRippleStyle:]
+-[MDCItemBarStyle rippleColor]
+-[MDCItemBarStyle setRippleColor:]
+-[MDCItemBarStyle titleImagePadding]
+-[MDCItemBarStyle setTitleImagePadding:]
+-[MDCItemBarStyle textOnlyNumberOfLines]
+-[MDCItemBarStyle setTextOnlyNumberOfLines:]
+-[MDCItemBarStyle displaysUppercaseTitles]
+-[MDCItemBarStyle setDisplaysUppercaseTitles:]
+-[MDCItemBarStyle enableRippleBehavior]
+-[MDCItemBarStyle setEnableRippleBehavior:]
+-[MDCItemBarStyle .cxx_destruct]
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCopying
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSCopying
+__OBJC_PROTOCOL_$_NSCopying
+__OBJC_LABEL_PROTOCOL_$_NSCopying
+__OBJC_CLASS_PROTOCOLS_$_MDCItemBarStyle
+__OBJC_METACLASS_RO_$_MDCItemBarStyle
+__OBJC_$_INSTANCE_METHODS_MDCItemBarStyle
+_OBJC_IVAR_$_MDCItemBarStyle._shouldDisplaySelectionIndicator
+_OBJC_IVAR_$_MDCItemBarStyle._shouldDisplayTitle
+_OBJC_IVAR_$_MDCItemBarStyle._shouldDisplayImage
+_OBJC_IVAR_$_MDCItemBarStyle._shouldDisplayBadge
+_OBJC_IVAR_$_MDCItemBarStyle._shouldGrowOnSelection
+_OBJC_IVAR_$_MDCItemBarStyle._displaysUppercaseTitles
+_OBJC_IVAR_$_MDCItemBarStyle._enableRippleBehavior
+_OBJC_IVAR_$_MDCItemBarStyle._defaultHeight
+_OBJC_IVAR_$_MDCItemBarStyle._selectionIndicatorColor
+_OBJC_IVAR_$_MDCItemBarStyle._selectionIndicatorTemplate
+_OBJC_IVAR_$_MDCItemBarStyle._maximumItemWidth
+_OBJC_IVAR_$_MDCItemBarStyle._titleColor
+_OBJC_IVAR_$_MDCItemBarStyle._selectedTitleColor
+_OBJC_IVAR_$_MDCItemBarStyle._imageTintColor
+_OBJC_IVAR_$_MDCItemBarStyle._selectedImageTintColor
+_OBJC_IVAR_$_MDCItemBarStyle._selectedTitleFont
+_OBJC_IVAR_$_MDCItemBarStyle._unselectedTitleFont
+_OBJC_IVAR_$_MDCItemBarStyle._badgeColor
+_OBJC_IVAR_$_MDCItemBarStyle._inkStyle
+_OBJC_IVAR_$_MDCItemBarStyle._inkColor
+_OBJC_IVAR_$_MDCItemBarStyle._rippleStyle
+_OBJC_IVAR_$_MDCItemBarStyle._rippleColor
+_OBJC_IVAR_$_MDCItemBarStyle._titleImagePadding
+_OBJC_IVAR_$_MDCItemBarStyle._textOnlyNumberOfLines
+__OBJC_$_INSTANCE_VARIABLES_MDCItemBarStyle
+__OBJC_$_PROP_LIST_MDCItemBarStyle
+__OBJC_CLASS_RO_$_MDCItemBarStyle
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/private/MDCItemBarStyle.m
+MaterialComponents/components/Tabs/src/private/MDCItemBarStyle.m
+MaterialComponents/components/Tabs/src/private/MDCItemBarStyle.h
+-[MDCLegacyInkLayerRipple init]
+-[MDCLegacyInkLayerRipple setupRipple]
+-[MDCLegacyInkLayerRipple enter]
+-[MDCLegacyInkLayerRipple exit]
+-[MDCLegacyInkLayerRipple opacityAnimWithValues:times:]
+-[MDCLegacyInkLayerRipple positionAnimWithPath:duration:timingFunction:]
+-[MDCLegacyInkLayerRipple scaleAnimWithValues:times:]
+-[MDCLegacyInkLayerRipple logDecelerateEasing]
+-[MDCLegacyInkLayerRipple animationDidStop:finished:]
+-[MDCLegacyInkLayerRipple isAnimationCleared]
+-[MDCLegacyInkLayerRipple setAnimationCleared:]
+-[MDCLegacyInkLayerRipple animationDelegate]
+-[MDCLegacyInkLayerRipple setAnimationDelegate:]
+-[MDCLegacyInkLayerRipple bounded]
+-[MDCLegacyInkLayerRipple setBounded:]
+-[MDCLegacyInkLayerRipple inkLayer]
+-[MDCLegacyInkLayerRipple setInkLayer:]
+-[MDCLegacyInkLayerRipple radius]
+-[MDCLegacyInkLayerRipple setRadius:]
+-[MDCLegacyInkLayerRipple point]
+-[MDCLegacyInkLayerRipple setPoint:]
+-[MDCLegacyInkLayerRipple targetFrame]
+-[MDCLegacyInkLayerRipple setTargetFrame:]
+-[MDCLegacyInkLayerRipple rippleState]
+-[MDCLegacyInkLayerRipple setRippleState:]
+-[MDCLegacyInkLayerRipple color]
+-[MDCLegacyInkLayerRipple setColor:]
+-[MDCLegacyInkLayerRipple .cxx_destruct]
+-[MDCLegacyInkLayerForegroundRipple setupRipple]
+-[MDCLegacyInkLayerForegroundRipple enterWithCompletion:]
+_MDCLegacyInkLayerRectGetCenter
+___57-[MDCLegacyInkLayerForegroundRipple enterWithCompletion:]_block_invoke
+___copy_helper_block_e8_32b40w
+___destroy_helper_block_e8_32s40w
+-[MDCLegacyInkLayerForegroundRipple exit:]
+-[MDCLegacyInkLayerForegroundRipple exit:completion:]
+___53-[MDCLegacyInkLayerForegroundRipple exit:completion:]_block_invoke
+___copy_helper_block_e8_32w
+___destroy_helper_block_e8_32w
+_MDCLegacyInkLayerInterpolatePoint
+___53-[MDCLegacyInkLayerForegroundRipple exit:completion:]_block_invoke.241
+-[MDCLegacyInkLayerForegroundRipple removeAllAnimations]
+-[MDCLegacyInkLayerForegroundRipple useCustomInkCenter]
+-[MDCLegacyInkLayerForegroundRipple setUseCustomInkCenter:]
+-[MDCLegacyInkLayerForegroundRipple customInkCenter]
+-[MDCLegacyInkLayerForegroundRipple setCustomInkCenter:]
+-[MDCLegacyInkLayerForegroundRipple foregroundOpacityAnim]
+-[MDCLegacyInkLayerForegroundRipple setForegroundOpacityAnim:]
+-[MDCLegacyInkLayerForegroundRipple foregroundPositionAnim]
+-[MDCLegacyInkLayerForegroundRipple setForegroundPositionAnim:]
+-[MDCLegacyInkLayerForegroundRipple foregroundScaleAnim]
+-[MDCLegacyInkLayerForegroundRipple setForegroundScaleAnim:]
+-[MDCLegacyInkLayerForegroundRipple .cxx_destruct]
+-[MDCLegacyInkLayerBackgroundRipple enter]
+-[MDCLegacyInkLayerBackgroundRipple exit:]
+___42-[MDCLegacyInkLayerBackgroundRipple exit:]_block_invoke
+-[MDCLegacyInkLayerBackgroundRipple removeAllAnimations]
+-[MDCLegacyInkLayerBackgroundRipple backgroundOpacityAnim]
+-[MDCLegacyInkLayerBackgroundRipple setBackgroundOpacityAnim:]
+-[MDCLegacyInkLayerBackgroundRipple .cxx_destruct]
+-[MDCLegacyInkLayer init]
+-[MDCLegacyInkLayer initWithCoder:]
+-[MDCLegacyInkLayer commonMDCLegacyInkLayerInit]
+___48-[MDCLegacyInkLayer commonMDCLegacyInkLayerInit]_block_invoke
+-[MDCLegacyInkLayer layoutSublayers]
+_MDCLegacyInkLayerRadiusBounds
+_MDCLegacyInkLayerRectHypotenuse
+-[MDCLegacyInkLayer enterAllInks]
+-[MDCLegacyInkLayer resetAllInk:]
+-[MDCLegacyInkLayer resetBottomInk:completion:]
+-[MDCLegacyInkLayer resetBottomInk:toPoint:completion:]
+-[MDCLegacyInkLayer spreadFromPoint:completion:]
+-[MDCLegacyInkLayer evaporateWithCompletion:]
+-[MDCLegacyInkLayer evaporateToPoint:completion:]
+-[MDCLegacyInkLayer animationDidStart:]
+-[MDCLegacyInkLayer animationDidStop:shapeLayer:finished:]
+-[MDCLegacyInkLayer animationDelegate]
+-[MDCLegacyInkLayer setAnimationDelegate:]
+-[MDCLegacyInkLayer isBounded]
+-[MDCLegacyInkLayer setBounded:]
+-[MDCLegacyInkLayer maxRippleRadius]
+-[MDCLegacyInkLayer setMaxRippleRadius:]
+-[MDCLegacyInkLayer inkColor]
+-[MDCLegacyInkLayer setInkColor:]
+-[MDCLegacyInkLayer spreadDuration]
+-[MDCLegacyInkLayer evaporateDuration]
+-[MDCLegacyInkLayer useCustomInkCenter]
+-[MDCLegacyInkLayer setUseCustomInkCenter:]
+-[MDCLegacyInkLayer customInkCenter]
+-[MDCLegacyInkLayer setCustomInkCenter:]
+-[MDCLegacyInkLayer userLinearExpansion]
+-[MDCLegacyInkLayer setUserLinearExpansion:]
+-[MDCLegacyInkLayer compositeRipple]
+-[MDCLegacyInkLayer setCompositeRipple:]
+-[MDCLegacyInkLayer foregroundRipples]
+-[MDCLegacyInkLayer setForegroundRipples:]
+-[MDCLegacyInkLayer backgroundRipples]
+-[MDCLegacyInkLayer setBackgroundRipples:]
+-[MDCLegacyInkLayer isAnimating]
+-[MDCLegacyInkLayer setAnimating:]
+-[MDCLegacyInkLayer .cxx_destruct]
+_MDCLegacyInkLayerRandom
+_kInkLayerOpacity
+_kInkLayerPosition
+_kInkLayerScale
+_OBJC_IVAR_$_MDCLegacyInkLayerRipple._rippleState
+_OBJC_IVAR_$_MDCLegacyInkLayerRipple._animationCleared
+_OBJC_IVAR_$_MDCLegacyInkLayerRipple._inkLayer
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_CLASSLIST_REFERENCES_$_.36
+_OBJC_IVAR_$_MDCLegacyInkLayerRipple._animationDelegate
+_OBJC_IVAR_$_MDCLegacyInkLayerRipple._bounded
+_OBJC_IVAR_$_MDCLegacyInkLayerRipple._radius
+_OBJC_IVAR_$_MDCLegacyInkLayerRipple._point
+_OBJC_IVAR_$_MDCLegacyInkLayerRipple._targetFrame
+_OBJC_IVAR_$_MDCLegacyInkLayerRipple._color
+__OBJC_$_PROTOCOL_REFS_CAAnimationDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_CAAnimationDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_CAAnimationDelegate
+__OBJC_PROTOCOL_$_CAAnimationDelegate
+__OBJC_LABEL_PROTOCOL_$_CAAnimationDelegate
+__OBJC_CLASS_PROTOCOLS_$_MDCLegacyInkLayerRipple
+__OBJC_METACLASS_RO_$_MDCLegacyInkLayerRipple
+__OBJC_$_INSTANCE_METHODS_MDCLegacyInkLayerRipple
+__OBJC_$_INSTANCE_VARIABLES_MDCLegacyInkLayerRipple
+__OBJC_$_PROP_LIST_MDCLegacyInkLayerRipple
+__OBJC_CLASS_RO_$_MDCLegacyInkLayerRipple
+_kInkLayerForegroundOpacityAnim
+_kInkLayerForegroundPositionAnim
+_kInkLayerForegroundScaleAnim
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_CLASSLIST_REFERENCES_$_.179
+_OBJC_CLASSLIST_REFERENCES_$_.182
+_OBJC_IVAR_$_MDCLegacyInkLayerForegroundRipple._foregroundOpacityAnim
+_OBJC_IVAR_$_MDCLegacyInkLayerForegroundRipple._foregroundScaleAnim
+_kInkLayerForegroundUnboundedOpacityEnterDuration
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_IVAR_$_MDCLegacyInkLayerForegroundRipple._foregroundPositionAnim
+_OBJC_CLASSLIST_REFERENCES_$_.207
+___block_descriptor_48_e8_32bs40w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_SELECTOR_REFERENCES_.227
+___block_descriptor_40_e8_32w_e5_v8?0l
+_kInkLayerForegroundBoundedOpacityExitDuration
+_kInkLayerForegroundBoundedRadiusExitDuration
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_IVAR_$_MDCLegacyInkLayerForegroundRipple._useCustomInkCenter
+_OBJC_IVAR_$_MDCLegacyInkLayerForegroundRipple._customInkCenter
+__OBJC_METACLASS_RO_$_MDCLegacyInkLayerForegroundRipple
+__OBJC_$_INSTANCE_METHODS_MDCLegacyInkLayerForegroundRipple
+__OBJC_$_INSTANCE_VARIABLES_MDCLegacyInkLayerForegroundRipple
+__OBJC_$_PROP_LIST_MDCLegacyInkLayerForegroundRipple
+__OBJC_CLASS_RO_$_MDCLegacyInkLayerForegroundRipple
+_kInkLayerBackgroundOpacityAnim
+_OBJC_IVAR_$_MDCLegacyInkLayerBackgroundRipple._backgroundOpacityAnim
+_kInkLayerBackgroundOpacityEnterDuration
+__OBJC_METACLASS_RO_$_MDCLegacyInkLayerBackgroundRipple
+__OBJC_$_INSTANCE_METHODS_MDCLegacyInkLayerBackgroundRipple
+__OBJC_$_INSTANCE_VARIABLES_MDCLegacyInkLayerBackgroundRipple
+__OBJC_$_PROP_LIST_MDCLegacyInkLayerBackgroundRipple
+__OBJC_CLASS_RO_$_MDCLegacyInkLayerBackgroundRipple
+_OBJC_IVAR_$_MDCLegacyInkLayer._animating
+_OBJC_SELECTOR_REFERENCES_.293
+_OBJC_SELECTOR_REFERENCES_.295
+_OBJC_SELECTOR_REFERENCES_.297
+_commonMDCLegacyInkLayerInit.defaultInkColor
+_commonMDCLegacyInkLayerInit.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.298
+_OBJC_IVAR_$_MDCLegacyInkLayer._bounded
+_OBJC_IVAR_$_MDCLegacyInkLayer._inkColor
+_OBJC_CLASSLIST_REFERENCES_$_.301
+_OBJC_SELECTOR_REFERENCES_.303
+_OBJC_IVAR_$_MDCLegacyInkLayer._compositeRipple
+_OBJC_CLASSLIST_REFERENCES_$_.304
+_OBJC_IVAR_$_MDCLegacyInkLayer._foregroundRipples
+_OBJC_IVAR_$_MDCLegacyInkLayer._backgroundRipples
+_OBJC_IVAR_$_MDCLegacyInkLayer._maxRippleRadius
+_OBJC_SELECTOR_REFERENCES_.315
+_OBJC_SELECTOR_REFERENCES_.317
+_OBJC_SELECTOR_REFERENCES_.321
+_OBJC_SELECTOR_REFERENCES_.323
+_OBJC_SELECTOR_REFERENCES_.325
+_OBJC_SELECTOR_REFERENCES_.327
+_OBJC_SELECTOR_REFERENCES_.329
+_OBJC_CLASSLIST_REFERENCES_$_.330
+_OBJC_SELECTOR_REFERENCES_.331
+_OBJC_SELECTOR_REFERENCES_.334
+_OBJC_SELECTOR_REFERENCES_.335
+_OBJC_SELECTOR_REFERENCES_.337
+_OBJC_SELECTOR_REFERENCES_.338
+_OBJC_SELECTOR_REFERENCES_.339
+_OBJC_CLASSLIST_REFERENCES_$_.340
+_OBJC_SELECTOR_REFERENCES_.341
+_OBJC_SELECTOR_REFERENCES_.342
+_OBJC_SELECTOR_REFERENCES_.344
+_OBJC_SELECTOR_REFERENCES_.346
+_OBJC_SELECTOR_REFERENCES_.348
+_OBJC_SELECTOR_REFERENCES_.350
+_OBJC_SELECTOR_REFERENCES_.352
+_OBJC_SELECTOR_REFERENCES_.354
+_OBJC_SELECTOR_REFERENCES_.355
+_OBJC_SELECTOR_REFERENCES_.356
+_OBJC_SELECTOR_REFERENCES_.357
+_OBJC_SELECTOR_REFERENCES_.359
+_OBJC_SELECTOR_REFERENCES_.361
+_OBJC_IVAR_$_MDCLegacyInkLayer._animationDelegate
+_OBJC_IVAR_$_MDCLegacyInkLayer._spreadDuration
+_OBJC_IVAR_$_MDCLegacyInkLayer._evaporateDuration
+_OBJC_IVAR_$_MDCLegacyInkLayer._useCustomInkCenter
+_OBJC_IVAR_$_MDCLegacyInkLayer._customInkCenter
+_OBJC_IVAR_$_MDCLegacyInkLayer._userLinearExpansion
+__OBJC_$_PROTOCOL_REFS_MDCLegacyInkLayerRippleDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_MDCLegacyInkLayerRippleDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCLegacyInkLayerRippleDelegate
+__OBJC_PROTOCOL_$_MDCLegacyInkLayerRippleDelegate
+__OBJC_LABEL_PROTOCOL_$_MDCLegacyInkLayerRippleDelegate
+__OBJC_CLASS_PROTOCOLS_$_MDCLegacyInkLayer
+__OBJC_METACLASS_RO_$_MDCLegacyInkLayer
+__OBJC_$_INSTANCE_METHODS_MDCLegacyInkLayer
+__OBJC_$_INSTANCE_VARIABLES_MDCLegacyInkLayer
+__OBJC_$_PROP_LIST_MDCLegacyInkLayer
+__OBJC_CLASS_RO_$_MDCLegacyInkLayer
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Ink/src/private/MDCLegacyInkLayer.m
+MDCLegacyInkLayerRandom
+MaterialComponents/components/Ink/src/private/MDCLegacyInkLayer.m
+MaterialComponents/components/Ink/src/private/MDCLegacyInkLayer+Private.h
+MaterialComponents/components/Ink/src/private/MDCLegacyInkLayer.h
+MDCLegacyInkLayerRectHypotenuse
+MDCLegacyInkLayerRadiusBounds
+__48-[MDCLegacyInkLayer commonMDCLegacyInkLayerInit]_block_invoke
+__42-[MDCLegacyInkLayerBackgroundRipple exit:]_block_invoke
+__53-[MDCLegacyInkLayerForegroundRipple exit:completion:]_block_invoke.241
+MDCLegacyInkLayerInterpolatePoint
+__destroy_helper_block_e8_32w
+__copy_helper_block_e8_32w
+__53-[MDCLegacyInkLayerForegroundRipple exit:completion:]_block_invoke
+__destroy_helper_block_e8_32s40w
+__copy_helper_block_e8_32b40w
+__57-[MDCLegacyInkLayerForegroundRipple enterWithCompletion:]_block_invoke
+MDCLegacyInkLayerRectGetCenter
+_NameToIndex
+_ColorToHSB
+_IsComponentGreaterThanValue
+_Clamp
+_InvLerp
+_Lerp
+___NameToIndex_block_invoke
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_kAccentSaturation
+_kAccentBrightness
+_NameToIndex.map
+_NameToIndex.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.45
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Palettes/src/private/MDCPaletteExpansions.m
+__NameToIndex_block_invoke
+MaterialComponents/components/Palettes/src/private/MDCPaletteExpansions.m
+MDCPaletteAccentFromTargetColor
+Lerp
+InvLerp
+Clamp
+IsComponentGreaterThanValue
+ColorToHSB
+NameToIndex
+MDCPaletteTintFromTargetColor
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Palettes/src/private/MDCPaletteNames.m
+MDCPaletteIsTintOrAccentName
+MaterialComponents/components/Palettes/src/private/MDCPaletteNames.m
++[MDCPalette redPalette]
+___24+[MDCPalette redPalette]_block_invoke
+_ColorFromRGB
+___copy_helper_block_e8_
+___destroy_helper_block_e8_
++[MDCPalette pinkPalette]
+___25+[MDCPalette pinkPalette]_block_invoke
++[MDCPalette purplePalette]
+___27+[MDCPalette purplePalette]_block_invoke
++[MDCPalette deepPurplePalette]
+___31+[MDCPalette deepPurplePalette]_block_invoke
++[MDCPalette indigoPalette]
+___27+[MDCPalette indigoPalette]_block_invoke
++[MDCPalette bluePalette]
+___25+[MDCPalette bluePalette]_block_invoke
++[MDCPalette lightBluePalette]
+___30+[MDCPalette lightBluePalette]_block_invoke
++[MDCPalette cyanPalette]
+___25+[MDCPalette cyanPalette]_block_invoke
++[MDCPalette tealPalette]
+___25+[MDCPalette tealPalette]_block_invoke
++[MDCPalette greenPalette]
+___26+[MDCPalette greenPalette]_block_invoke
++[MDCPalette lightGreenPalette]
+___31+[MDCPalette lightGreenPalette]_block_invoke
++[MDCPalette limePalette]
+___25+[MDCPalette limePalette]_block_invoke
++[MDCPalette yellowPalette]
+___27+[MDCPalette yellowPalette]_block_invoke
++[MDCPalette amberPalette]
+___26+[MDCPalette amberPalette]_block_invoke
++[MDCPalette orangePalette]
+___27+[MDCPalette orangePalette]_block_invoke
++[MDCPalette deepOrangePalette]
+___31+[MDCPalette deepOrangePalette]_block_invoke
++[MDCPalette brownPalette]
+___26+[MDCPalette brownPalette]_block_invoke
++[MDCPalette greyPalette]
+___25+[MDCPalette greyPalette]_block_invoke
++[MDCPalette blueGreyPalette]
+___29+[MDCPalette blueGreyPalette]_block_invoke
++[MDCPalette paletteGeneratedFromColor:]
++[MDCPalette paletteWithTints:accents:]
+-[MDCPalette initWithTints:accents:]
+-[MDCPalette tint50]
+-[MDCPalette tint100]
+-[MDCPalette tint200]
+-[MDCPalette tint300]
+-[MDCPalette tint400]
+-[MDCPalette tint500]
+-[MDCPalette tint600]
+-[MDCPalette tint700]
+-[MDCPalette tint800]
+-[MDCPalette tint900]
+-[MDCPalette accent100]
+-[MDCPalette accent200]
+-[MDCPalette accent400]
+-[MDCPalette accent700]
++[MDCPalette requiredTintKeys]
+-[MDCPalette .cxx_destruct]
+_redPalette.palette
+_redPalette.onceToken
+___block_descriptor_40_e8__e5_v8?0l
+_pinkPalette.palette
+_pinkPalette.onceToken
+_purplePalette.palette
+_purplePalette.onceToken
+_deepPurplePalette.palette
+_deepPurplePalette.onceToken
+_indigoPalette.palette
+_indigoPalette.onceToken
+_bluePalette.palette
+_bluePalette.onceToken
+_lightBluePalette.palette
+_lightBluePalette.onceToken
+_cyanPalette.palette
+_cyanPalette.onceToken
+_tealPalette.palette
+_tealPalette.onceToken
+_greenPalette.palette
+_greenPalette.onceToken
+_lightGreenPalette.palette
+_lightGreenPalette.onceToken
+_limePalette.palette
+_limePalette.onceToken
+_yellowPalette.palette
+_yellowPalette.onceToken
+_amberPalette.palette
+_amberPalette.onceToken
+_orangePalette.palette
+_orangePalette.onceToken
+_deepOrangePalette.palette
+_deepOrangePalette.onceToken
+_brownPalette.palette
+_brownPalette.onceToken
+_greyPalette.palette
+_greyPalette.onceToken
+_blueGreyPalette.palette
+_blueGreyPalette.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.30
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_CLASSLIST_REFERENCES_$_.51
+_OBJC_CLASSLIST_REFERENCES_$_.71
+__OBJC_$_CLASS_METHODS_MDCPalette
+__OBJC_$_CLASS_PROP_LIST_MDCPalette
+__OBJC_METACLASS_RO_$_MDCPalette
+__OBJC_$_INSTANCE_METHODS_MDCPalette
+_OBJC_IVAR_$_MDCPalette._tints
+_OBJC_IVAR_$_MDCPalette._accents
+__OBJC_$_INSTANCE_VARIABLES_MDCPalette
+__OBJC_$_PROP_LIST_MDCPalette
+__OBJC_CLASS_RO_$_MDCPalette
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Palettes/src/MDCPalettes.m
+MaterialComponents/components/Palettes/src/MDCPalettes.m
+__29+[MDCPalette blueGreyPalette]_block_invoke
+__25+[MDCPalette greyPalette]_block_invoke
+__26+[MDCPalette brownPalette]_block_invoke
+__31+[MDCPalette deepOrangePalette]_block_invoke
+__27+[MDCPalette orangePalette]_block_invoke
+__26+[MDCPalette amberPalette]_block_invoke
+__27+[MDCPalette yellowPalette]_block_invoke
+__25+[MDCPalette limePalette]_block_invoke
+__31+[MDCPalette lightGreenPalette]_block_invoke
+__26+[MDCPalette greenPalette]_block_invoke
+__25+[MDCPalette tealPalette]_block_invoke
+__25+[MDCPalette cyanPalette]_block_invoke
+__30+[MDCPalette lightBluePalette]_block_invoke
+__25+[MDCPalette bluePalette]_block_invoke
+__27+[MDCPalette indigoPalette]_block_invoke
+__31+[MDCPalette deepPurplePalette]_block_invoke
+__27+[MDCPalette purplePalette]_block_invoke
+__25+[MDCPalette pinkPalette]_block_invoke
+__destroy_helper_block_e8_
+__copy_helper_block_e8_
+ColorFromRGB
+__24+[MDCPalette redPalette]_block_invoke
+-[MDCRippleLayer setNeedsLayout]
+-[MDCRippleLayer setPathFromRadii]
+_GetDefaultRippleRadius
+-[MDCRippleLayer startRippleAtPoint:animated:completion:]
+___57-[MDCRippleLayer startRippleAtPoint:animated:completion:]_block_invoke
+___copy_helper_block_e8_32s40b
+-[MDCRippleLayer fadeInRippleAnimated:completion:]
+___50-[MDCRippleLayer fadeInRippleAnimated:completion:]_block_invoke
+___copy_helper_block_e8_32b
+-[MDCRippleLayer fadeOutRippleAnimated:completion:]
+___51-[MDCRippleLayer fadeOutRippleAnimated:completion:]_block_invoke
+-[MDCRippleLayer endRippleAnimated:completion:]
+___47-[MDCRippleLayer endRippleAnimated:completion:]_block_invoke
+___copy_helper_block_e8_32b40s
+-[MDCRippleLayer rippleLayerDelegate]
+-[MDCRippleLayer setRippleLayerDelegate:]
+-[MDCRippleLayer isStartAnimationActive]
+-[MDCRippleLayer rippleTouchDownStartTime]
+-[MDCRippleLayer setRippleTouchDownStartTime:]
+-[MDCRippleLayer maximumRadius]
+-[MDCRippleLayer setMaximumRadius:]
+-[MDCRippleLayer .cxx_destruct]
+_kRippleLayerOpacityString
+_kRippleLayerPositionString
+_kRippleLayerScaleString
+_OBJC_IVAR_$_MDCRippleLayer._startAnimationActive
+_OBJC_CLASSLIST_REFERENCES_$_.32
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_CLASSLIST_REFERENCES_$_.55
+_kRippleFadeInDuration
+_OBJC_CLASSLIST_REFERENCES_$_.66
+_OBJC_CLASSLIST_REFERENCES_$_.69
+_kRippleTouchDownDuration
+___block_descriptor_48_e8_32s40bs_e5_v8?0l
+_OBJC_IVAR_$_MDCRippleLayer._rippleTouchDownStartTime
+___block_descriptor_40_e8_32bs_e5_v8?0l
+___block_descriptor_48_e8_32bs40s_e5_v8?0l
+_OBJC_IVAR_$_MDCRippleLayer._rippleLayerDelegate
+_OBJC_IVAR_$_MDCRippleLayer._maximumRadius
+__OBJC_METACLASS_RO_$_MDCRippleLayer
+__OBJC_$_INSTANCE_METHODS_MDCRippleLayer
+__OBJC_$_INSTANCE_VARIABLES_MDCRippleLayer
+__OBJC_$_PROP_LIST_MDCRippleLayer
+__OBJC_CLASS_RO_$_MDCRippleLayer
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Ripple/src/private/MDCRippleLayer.m
+MaterialComponents/components/Ripple/src/private/MDCRippleLayer.m
+MaterialComponents/components/Ripple/src/private/MDCRippleLayer.h
+__copy_helper_block_e8_32b40s
+__47-[MDCRippleLayer endRippleAnimated:completion:]_block_invoke
+__51-[MDCRippleLayer fadeOutRippleAnimated:completion:]_block_invoke
+__copy_helper_block_e8_32b
+__50-[MDCRippleLayer fadeInRippleAnimated:completion:]_block_invoke
+__copy_helper_block_e8_32s40b
+__57-[MDCRippleLayer startRippleAtPoint:animated:completion:]_block_invoke
+GetDefaultRippleRadius
+-[MDCRippleTouchController initWithView:]
+-[MDCRippleTouchController initWithView:deferred:]
+-[MDCRippleTouchController init]
+-[MDCRippleTouchController dealloc]
+-[MDCRippleTouchController rippleView]
+-[MDCRippleTouchController setDelegate:]
+-[MDCRippleTouchController addRippleToView:]
+-[MDCRippleTouchController configureRippleWithView:]
+-[MDCRippleTouchController attachGestureRecognizerToView:]
+-[MDCRippleTouchController insertRippleView:intoView:]
+-[MDCRippleTouchController handleRippleGesture:]
+-[MDCRippleTouchController gestureRecognizer:shouldRequireFailureOfGestureRecognizer:]
+-[MDCRippleTouchController gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer:]
+-[MDCRippleTouchController gestureRecognizerShouldBegin:]
+-[MDCRippleTouchController view]
+-[MDCRippleTouchController delegate]
+-[MDCRippleTouchController gestureRecognizer]
+-[MDCRippleTouchController shouldProcessRippleWithScrollViewGestures]
+-[MDCRippleTouchController setShouldProcessRippleWithScrollViewGestures:]
+-[MDCRippleTouchController .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_CLASSLIST_REFERENCES_$_.64
+__OBJC_CLASS_PROTOCOLS_$_MDCRippleTouchController
+__OBJC_METACLASS_RO_$_MDCRippleTouchController
+__OBJC_$_INSTANCE_METHODS_MDCRippleTouchController
+_OBJC_IVAR_$_MDCRippleTouchController._tapWentOutsideOfBounds
+_OBJC_IVAR_$_MDCRippleTouchController._deferred
+_OBJC_IVAR_$_MDCRippleTouchController._delegateFlags
+_OBJC_IVAR_$_MDCRippleTouchController._shouldProcessRippleWithScrollViewGestures
+_OBJC_IVAR_$_MDCRippleTouchController._rippleView
+_OBJC_IVAR_$_MDCRippleTouchController._view
+_OBJC_IVAR_$_MDCRippleTouchController._delegate
+_OBJC_IVAR_$_MDCRippleTouchController._gestureRecognizer
+__OBJC_$_INSTANCE_VARIABLES_MDCRippleTouchController
+__OBJC_$_PROP_LIST_MDCRippleTouchController
+__OBJC_CLASS_RO_$_MDCRippleTouchController
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Ripple/src/MDCRippleTouchController.m
+MaterialComponents/components/Ripple/src/MDCRippleTouchController.m
+MaterialComponents/components/Ripple/src/MDCRippleTouchController.h
+-[MDCRippleView initWithFrame:]
+-[MDCRippleView initWithCoder:]
+-[MDCRippleView commonMDCRippleViewInit]
+___40-[MDCRippleView commonMDCRippleViewInit]_block_invoke
+-[MDCRippleView layoutSubviews]
+-[MDCRippleView traitCollectionDidChange:]
+-[MDCRippleView layoutSublayersOfLayer:]
+-[MDCRippleView setRippleStyle:]
+-[MDCRippleView setUsesSuperviewShadowLayerAsMask:]
+-[MDCRippleView updateRippleStyle]
+-[MDCRippleView cancelAllRipplesAnimated:completion:]
+___53-[MDCRippleView cancelAllRipplesAnimated:completion:]_block_invoke
+___53-[MDCRippleView cancelAllRipplesAnimated:completion:]_block_invoke.79
+-[MDCRippleView activeRippleLayer]
+-[MDCRippleView setActiveRippleLayer:]
+-[MDCRippleView beginRippleTouchDownAtPoint:animated:completion:]
+___65-[MDCRippleView beginRippleTouchDownAtPoint:animated:completion:]_block_invoke
+-[MDCRippleView beginRippleTouchUpAnimated:completion:]
+-[MDCRippleView fadeInRippleAnimated:completion:]
+-[MDCRippleView fadeOutRippleAnimated:completion:]
+-[MDCRippleView setActiveRippleColor:]
+-[MDCRippleView rippleLayerTouchDownAnimationDidBegin:]
+-[MDCRippleView rippleLayerTouchDownAnimationDidEnd:]
+-[MDCRippleView rippleLayerTouchUpAnimationDidBegin:]
+-[MDCRippleView rippleLayerTouchUpAnimationDidEnd:]
+-[MDCRippleView actionForLayer:forKey:]
+-[MDCRippleView rippleViewDelegate]
+-[MDCRippleView setRippleViewDelegate:]
+-[MDCRippleView rippleStyle]
+-[MDCRippleView rippleColor]
+-[MDCRippleView setRippleColor:]
+-[MDCRippleView maximumRadius]
+-[MDCRippleView setMaximumRadius:]
+-[MDCRippleView activeRippleColor]
+-[MDCRippleView usesSuperviewShadowLayerAsMask]
+-[MDCRippleView traitCollectionDidChangeBlock]
+-[MDCRippleView setTraitCollectionDidChangeBlock:]
+-[MDCRippleView maskLayer]
+-[MDCRippleView setMaskLayer:]
+-[MDCRippleView .cxx_destruct]
+-[MDCRipplePendingAnimation runActionForKey:object:arguments:]
+-[MDCRipplePendingAnimation animationSourceLayer]
+-[MDCRipplePendingAnimation setAnimationSourceLayer:]
+-[MDCRipplePendingAnimation keyPath]
+-[MDCRipplePendingAnimation setKeyPath:]
+-[MDCRipplePendingAnimation fromValue]
+-[MDCRipplePendingAnimation setFromValue:]
+-[MDCRipplePendingAnimation toValue]
+-[MDCRipplePendingAnimation setToValue:]
+-[MDCRipplePendingAnimation .cxx_destruct]
+_OBJC_IVAR_$_MDCRippleView._usesSuperviewShadowLayerAsMask
+_commonMDCRippleViewInit.defaultRippleColor
+_commonMDCRippleViewInit.onceToken
+_OBJC_IVAR_$_MDCRippleView._rippleColor
+_OBJC_IVAR_$_MDCRippleView._rippleStyle
+_OBJC_IVAR_$_MDCRippleView._maskLayer
+_OBJC_IVAR_$_MDCRippleView._activeRippleLayer
+___block_descriptor_48_e8_32s40s_e5_v8?0l
+_OBJC_IVAR_$_MDCRippleView._activeRippleColor
+_OBJC_IVAR_$_MDCRippleView._rippleViewDelegate
+_OBJC_IVAR_$_MDCRippleView._maximumRadius
+_OBJC_IVAR_$_MDCRippleView._traitCollectionDidChangeBlock
+__OBJC_$_PROTOCOL_REFS_MDCRippleLayerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_MDCRippleLayerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCRippleLayerDelegate
+__OBJC_PROTOCOL_$_MDCRippleLayerDelegate
+__OBJC_LABEL_PROTOCOL_$_MDCRippleLayerDelegate
+__OBJC_CLASS_PROTOCOLS_$_MDCRippleView
+__OBJC_METACLASS_RO_$_MDCRippleView
+__OBJC_$_INSTANCE_METHODS_MDCRippleView
+__OBJC_$_INSTANCE_VARIABLES_MDCRippleView
+__OBJC_$_PROP_LIST_MDCRippleView
+__OBJC_CLASS_RO_$_MDCRippleView
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_SELECTOR_REFERENCES_.255
+_OBJC_CLASSLIST_REFERENCES_$_.256
+_OBJC_CLASSLIST_REFERENCES_$_.257
+_OBJC_SELECTOR_REFERENCES_.259
+_OBJC_SELECTOR_REFERENCES_.265
+_OBJC_SELECTOR_REFERENCES_.267
+_OBJC_SELECTOR_REFERENCES_.269
+_OBJC_SELECTOR_REFERENCES_.271
+__OBJC_CLASS_PROTOCOLS_$_MDCRipplePendingAnimation
+__OBJC_METACLASS_RO_$_MDCRipplePendingAnimation
+__OBJC_$_INSTANCE_METHODS_MDCRipplePendingAnimation
+_OBJC_IVAR_$_MDCRipplePendingAnimation._animationSourceLayer
+_OBJC_IVAR_$_MDCRipplePendingAnimation._keyPath
+_OBJC_IVAR_$_MDCRipplePendingAnimation._fromValue
+_OBJC_IVAR_$_MDCRipplePendingAnimation._toValue
+__OBJC_$_INSTANCE_VARIABLES_MDCRipplePendingAnimation
+__OBJC_$_PROP_LIST_MDCRipplePendingAnimation
+__OBJC_CLASS_RO_$_MDCRipplePendingAnimation
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Ripple/src/MDCRippleView.m
+MaterialComponents/components/Ripple/src/MDCRippleView.m
+MaterialComponents/components/Ripple/src/MDCRippleView.h
+__65-[MDCRippleView beginRippleTouchDownAtPoint:animated:completion:]_block_invoke
+__53-[MDCRippleView cancelAllRipplesAnimated:completion:]_block_invoke.79
+__53-[MDCRippleView cancelAllRipplesAnimated:completion:]_block_invoke
+__40-[MDCRippleView commonMDCRippleViewInit]_block_invoke
++[MDCShadowMetrics metricsWithElevation:]
+-[MDCShadowMetrics initWithElevation:]
++[MDCShadowMetrics emptyShadowMetrics]
+___38+[MDCShadowMetrics emptyShadowMetrics]_block_invoke
++[MDCShadowMetrics ambientShadowBlur:]
++[MDCShadowMetrics keyShadowBlur:]
++[MDCShadowMetrics keyShadowYOff:]
+-[MDCShadowMetrics topShadowRadius]
+-[MDCShadowMetrics topShadowOffset]
+-[MDCShadowMetrics topShadowOpacity]
+-[MDCShadowMetrics bottomShadowRadius]
+-[MDCShadowMetrics bottomShadowOffset]
+-[MDCShadowMetrics bottomShadowOpacity]
+-[MDCShadowLayer init]
+-[MDCShadowLayer initWithCoder:]
+-[MDCShadowLayer initWithLayer:]
+-[MDCShadowLayer commonMDCShadowLayerInit]
+-[MDCShadowLayer layoutSublayers]
+-[MDCShadowLayer setBounds:]
+-[MDCShadowLayer defaultShadowPath]
+-[MDCShadowLayer setCornerRadius:]
+-[MDCShadowLayer setShadowPath:]
+-[MDCShadowLayer setShadowColor:]
+-[MDCShadowLayer setShouldRasterize:]
++[MDCShadowLayer shadowSpreadForElevation:]
+-[MDCShadowLayer setShadowMaskEnabled:]
+-[MDCShadowLayer configureShadowLayerMaskForLayer:]
+-[MDCShadowLayer maskRect]
+-[MDCShadowLayer outerMaskPath]
+-[MDCShadowLayer setElevation:]
+-[MDCShadowLayer actionForLayer:forKey:]
+-[MDCShadowLayer commonLayoutSublayers]
+-[MDCShadowLayer animateCornerRadius:withTimingFunction:duration:]
+-[MDCShadowLayer elevation]
+-[MDCShadowLayer isShadowMaskEnabled]
+-[MDCShadowLayer topShadow]
+-[MDCShadowLayer setTopShadow:]
+-[MDCShadowLayer bottomShadow]
+-[MDCShadowLayer setBottomShadow:]
+-[MDCShadowLayer topShadowMask]
+-[MDCShadowLayer setTopShadowMask:]
+-[MDCShadowLayer bottomShadowMask]
+-[MDCShadowLayer setBottomShadowMask:]
+-[MDCShadowLayer .cxx_destruct]
+-[MDCPendingAnimation runActionForKey:object:arguments:]
+-[MDCPendingAnimation animationSourceLayer]
+-[MDCPendingAnimation setAnimationSourceLayer:]
+-[MDCPendingAnimation keyPath]
+-[MDCPendingAnimation setKeyPath:]
+-[MDCPendingAnimation fromValue]
+-[MDCPendingAnimation setFromValue:]
+-[MDCPendingAnimation toValue]
+-[MDCPendingAnimation setToValue:]
+-[MDCPendingAnimation .cxx_destruct]
+_emptyShadowMetrics.emptyShadowMetrics
+_emptyShadowMetrics.once
+__OBJC_$_CLASS_METHODS_MDCShadowMetrics
+__OBJC_METACLASS_RO_$_MDCShadowMetrics
+__OBJC_$_INSTANCE_METHODS_MDCShadowMetrics
+_OBJC_IVAR_$_MDCShadowMetrics._topShadowOpacity
+_OBJC_IVAR_$_MDCShadowMetrics._bottomShadowOpacity
+_OBJC_IVAR_$_MDCShadowMetrics._topShadowRadius
+_OBJC_IVAR_$_MDCShadowMetrics._bottomShadowRadius
+_OBJC_IVAR_$_MDCShadowMetrics._topShadowOffset
+_OBJC_IVAR_$_MDCShadowMetrics._bottomShadowOffset
+__OBJC_$_INSTANCE_VARIABLES_MDCShadowMetrics
+__OBJC_$_PROP_LIST_MDCShadowMetrics
+__OBJC_CLASS_RO_$_MDCShadowMetrics
+_OBJC_IVAR_$_MDCShadowLayer._elevation
+_OBJC_IVAR_$_MDCShadowLayer._shadowMaskEnabled
+_OBJC_IVAR_$_MDCShadowLayer._shadowPathIsInvalid
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_IVAR_$_MDCShadowLayer._bottomShadow
+_OBJC_IVAR_$_MDCShadowLayer._topShadow
+_OBJC_IVAR_$_MDCShadowLayer._topShadowMask
+_OBJC_IVAR_$_MDCShadowLayer._bottomShadowMask
+_OBJC_CLASSLIST_REFERENCES_$_.114
+_OBJC_CLASSLIST_REFERENCES_$_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_CLASSLIST_REFERENCES_$_.174
+_OBJC_CLASSLIST_REFERENCES_$_.185
+__OBJC_$_CLASS_METHODS_MDCShadowLayer
+__OBJC_METACLASS_RO_$_MDCShadowLayer
+__OBJC_$_INSTANCE_METHODS_MDCShadowLayer
+__OBJC_$_INSTANCE_VARIABLES_MDCShadowLayer
+__OBJC_$_PROP_LIST_MDCShadowLayer
+__OBJC_CLASS_RO_$_MDCShadowLayer
+__OBJC_CLASS_PROTOCOLS_$_MDCPendingAnimation
+__OBJC_METACLASS_RO_$_MDCPendingAnimation
+__OBJC_$_INSTANCE_METHODS_MDCPendingAnimation
+_OBJC_IVAR_$_MDCPendingAnimation._animationSourceLayer
+_OBJC_IVAR_$_MDCPendingAnimation._keyPath
+_OBJC_IVAR_$_MDCPendingAnimation._fromValue
+_OBJC_IVAR_$_MDCPendingAnimation._toValue
+__OBJC_$_INSTANCE_VARIABLES_MDCPendingAnimation
+__OBJC_$_PROP_LIST_MDCPendingAnimation
+__OBJC_CLASS_RO_$_MDCPendingAnimation
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/ShadowLayer/src/MDCShadowLayer.m
+MaterialComponents/components/ShadowLayer/src/MDCShadowLayer.m
+MaterialComponents/components/ShadowLayer/src/MDCShadowLayer.h
+__38+[MDCShadowMetrics emptyShadowMetrics]_block_invoke
+-[MDCStatefulRippleView initWithFrame:]
+-[MDCStatefulRippleView initWithCoder:]
+-[MDCStatefulRippleView commonMDCStatefulRippleViewInit]
+_RippleSelectedColor
+-[MDCStatefulRippleView rippleColorForState:]
+-[MDCStatefulRippleView updateRippleColor]
+-[MDCStatefulRippleView updateActiveRippleColor]
+-[MDCStatefulRippleView setRippleColor:forState:]
+-[MDCStatefulRippleView state]
+-[MDCStatefulRippleView setAllowsSelection:]
+-[MDCStatefulRippleView setSelected:]
+-[MDCStatefulRippleView setRippleHighlighted:]
+-[MDCStatefulRippleView setDragged:]
+-[MDCStatefulRippleView touchesBegan:withEvent:]
+-[MDCStatefulRippleView pointInsideSuperview:withEvent:]
+-[MDCStatefulRippleView touchesMoved:withEvent:]
+-[MDCStatefulRippleView touchesEnded:withEvent:]
+-[MDCStatefulRippleView touchesCancelled:withEvent:]
+-[MDCStatefulRippleView isSelected]
+-[MDCStatefulRippleView isRippleHighlighted]
+-[MDCStatefulRippleView isDragged]
+-[MDCStatefulRippleView allowsSelection]
+-[MDCStatefulRippleView .cxx_destruct]
+_OBJC_IVAR_$_MDCStatefulRippleView._rippleColors
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_CLASSLIST_REFERENCES_$_.10
+_OBJC_IVAR_$_MDCStatefulRippleView._allowsSelection
+_OBJC_IVAR_$_MDCStatefulRippleView._tapWentOutsideOfBounds
+_OBJC_IVAR_$_MDCStatefulRippleView._selected
+_OBJC_IVAR_$_MDCStatefulRippleView._lastTouch
+_OBJC_IVAR_$_MDCStatefulRippleView._rippleHighlighted
+_OBJC_IVAR_$_MDCStatefulRippleView._tapWentInsideOfBounds
+_OBJC_IVAR_$_MDCStatefulRippleView._didReceiveTouch
+_OBJC_IVAR_$_MDCStatefulRippleView._dragged
+__OBJC_METACLASS_RO_$_MDCStatefulRippleView
+__OBJC_$_INSTANCE_METHODS_MDCStatefulRippleView
+__OBJC_$_INSTANCE_VARIABLES_MDCStatefulRippleView
+__OBJC_$_PROP_LIST_MDCStatefulRippleView
+__OBJC_CLASS_RO_$_MDCStatefulRippleView
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Ripple/src/MDCStatefulRippleView.m
+MaterialComponents/components/Ripple/src/MDCStatefulRippleView.m
+MaterialComponents/components/Ripple/src/MDCStatefulRippleView.h
+RippleSelectedColor
+-[MDCTabBar initWithCoder:]
+-[MDCTabBar initWithFrame:]
+-[MDCTabBar commonMDCTabBarInit]
+_MDCItemBarAlignmentForTabBarAlignment
+-[MDCTabBar layoutSubviews]
+-[MDCTabBar traitCollectionDidChange:]
+-[MDCTabBar mdc_currentElevation]
++[MDCTabBar defaultHeightForBarPosition:itemAppearance:]
++[MDCTabBar defaultHeightForItemAppearance:]
+-[MDCTabBar setTitleColor:forState:]
+-[MDCTabBar titleColorForState:]
+-[MDCTabBar setImageTintColor:forState:]
+-[MDCTabBar imageTintColorForState:]
+-[MDCTabBar setDelegate:]
+-[MDCTabBar items]
+-[MDCTabBar setItems:]
+-[MDCTabBar selectedItem]
+-[MDCTabBar setSelectedItem:]
+-[MDCTabBar setSelectedItem:animated:]
+-[MDCTabBar setBarTintColor:]
+-[MDCTabBar setInkColor:]
+-[MDCTabBar inkColor]
+-[MDCTabBar setRippleColor:]
+-[MDCTabBar setUnselectedItemTitleFont:]
+-[MDCTabBar setSelectedItemTitleFont:]
+-[MDCTabBar setAlignment:]
+-[MDCTabBar setAlignment:animated:]
+-[MDCTabBar setItemAppearance:]
+-[MDCTabBar setSelectedItemTintColor:]
+-[MDCTabBar setUnselectedItemTintColor:]
+-[MDCTabBar displaysUppercaseTitles]
+-[MDCTabBar setDisplaysUppercaseTitles:]
+-[MDCTabBar setTitleTextTransform:]
+-[MDCTabBar setSelectionIndicatorTemplate:]
+-[MDCTabBar setBottomDividerColor:]
+-[MDCTabBar mdf_setSemanticContentAttribute:]
+-[MDCTabBar accessibilityElementForItem:]
+-[MDCTabBar itemBar:didSelectItem:]
+-[MDCTabBar itemBar:shouldSelectItem:]
+-[MDCTabBar tintColorDidChange]
+-[MDCTabBar intrinsicContentSize]
+-[MDCTabBar sizeThatFits:]
+-[MDCTabBar didMoveToWindow]
++[MDCTabBar defaultStyleForPosition:itemAppearance:]
++[MDCTabBar isTopTabsForPosition:]
++[MDCTabBar displaysUppercaseTitlesByDefaultForPosition:]
++[MDCTabBar defaultAlignmentForPosition:]
++[MDCTabBar defaultItemAppearanceForPosition:]
++[MDCTabBar defaultSelectionIndicatorTemplate]
+-[MDCTabBar computedAlignment]
+-[MDCTabBar computedItemAppearance]
+-[MDCTabBar internalSetAlignment:animated:]
+-[MDCTabBar internalSetItemAppearance:]
+-[MDCTabBar updateItemBarPosition]
+-[MDCTabBar updatePositionDerivedDefaultValues]
+-[MDCTabBar updateItemBarStyle]
+-[MDCTabBar setEnableRippleBehavior:]
+-[MDCTabBar alignment]
+-[MDCTabBar barPosition]
+-[MDCTabBar itemAppearance]
+-[MDCTabBar mdc_overrideBaseElevation]
+-[MDCTabBar setMdc_overrideBaseElevation:]
+-[MDCTabBar mdc_elevationDidChangeBlock]
+-[MDCTabBar setMdc_elevationDidChangeBlock:]
+-[MDCTabBar delegate]
+-[MDCTabBar selectedItemTintColor]
+-[MDCTabBar unselectedItemTintColor]
+-[MDCTabBar enableRippleBehavior]
+-[MDCTabBar rippleColor]
+-[MDCTabBar bottomDividerColor]
+-[MDCTabBar selectedItemTitleFont]
+-[MDCTabBar unselectedItemTitleFont]
+-[MDCTabBar barTintColor]
+-[MDCTabBar titleTextTransform]
+-[MDCTabBar selectionIndicatorTemplate]
+-[MDCTabBar traitCollectionDidChangeBlock]
+-[MDCTabBar setTraitCollectionDidChangeBlock:]
+-[MDCTabBar displayDelegate]
+-[MDCTabBar setDisplayDelegate:]
+-[MDCTabBar sizeClassDelegate]
+-[MDCTabBar setSizeClassDelegate:]
+-[MDCTabBar .cxx_destruct]
+_RippleColor
+_OBJC_IVAR_$_MDCTabBar._bottomDividerColor
+_OBJC_IVAR_$_MDCTabBar._selectedItemTintColor
+_OBJC_IVAR_$_MDCTabBar._unselectedItemTintColor
+_OBJC_IVAR_$_MDCTabBar._selectedTitleColor
+_OBJC_IVAR_$_MDCTabBar._unselectedTitleColor
+_OBJC_IVAR_$_MDCTabBar._inkColor
+_OBJC_IVAR_$_MDCTabBar._rippleColor
+_OBJC_IVAR_$_MDCTabBar._barPosition
+_OBJC_IVAR_$_MDCTabBar._hasDefaultItemAppearance
+_OBJC_IVAR_$_MDCTabBar._hasDefaultAlignment
+_OBJC_IVAR_$_MDCTabBar._alignment
+_OBJC_IVAR_$_MDCTabBar._titleTextTransform
+_OBJC_IVAR_$_MDCTabBar._itemAppearance
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_IVAR_$_MDCTabBar._selectionIndicatorTemplate
+_OBJC_CLASSLIST_REFERENCES_$_.22
+_OBJC_IVAR_$_MDCTabBar._selectedItemTitleFont
+_OBJC_IVAR_$_MDCTabBar._unselectedItemTitleFont
+_OBJC_CLASSLIST_REFERENCES_$_.25
+_OBJC_IVAR_$_MDCTabBar._itemBar
+_OBJC_IVAR_$_MDCTabBar._dividerBar
+_OBJC_IVAR_$_MDCTabBar._mdc_overrideBaseElevation
+_OBJC_IVAR_$_MDCTabBar._delegate
+_OBJC_IVAR_$_MDCTabBar._barTintColor
+_OBJC_IVAR_$_MDCTabBar._alignmentOverride
+_OBJC_IVAR_$_MDCTabBar._itemAppearanceOverride
+_OBJC_CLASSLIST_REFERENCES_$_.103
+_kBottomNavigationMaximumItemWidth
+_kBottomNavigationTitleImagePadding
+_OBJC_CLASSLIST_REFERENCES_$_.120
+_OBJC_CLASSLIST_REFERENCES_$_.139
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_IVAR_$_MDCTabBar._enableRippleBehavior
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_IVAR_$_MDCTabBar._mdc_elevationDidChangeBlock
+_OBJC_IVAR_$_MDCTabBar._traitCollectionDidChangeBlock
+_OBJC_IVAR_$_MDCTabBar._displayDelegate
+_OBJC_IVAR_$_MDCTabBar._sizeClassDelegate
+__OBJC_$_CLASS_METHODS_MDCTabBar
+__OBJC_$_PROTOCOL_REFS_MDCItemBarDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_MDCItemBarDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCItemBarDelegate
+__OBJC_PROTOCOL_$_MDCItemBarDelegate
+__OBJC_LABEL_PROTOCOL_$_MDCItemBarDelegate
+__OBJC_$_PROTOCOL_REFS_UIBarPositioning
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_UIBarPositioning
+__OBJC_$_PROP_LIST_UIBarPositioning
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIBarPositioning
+__OBJC_PROTOCOL_$_UIBarPositioning
+__OBJC_LABEL_PROTOCOL_$_UIBarPositioning
+__OBJC_$_PROTOCOL_REFS_MDCElevatable
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_MDCElevatable
+__OBJC_$_PROP_LIST_MDCElevatable
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCElevatable
+__OBJC_PROTOCOL_$_MDCElevatable
+__OBJC_LABEL_PROTOCOL_$_MDCElevatable
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_MDCElevationOverriding
+__OBJC_$_PROP_LIST_MDCElevationOverriding
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCElevationOverriding
+__OBJC_PROTOCOL_$_MDCElevationOverriding
+__OBJC_LABEL_PROTOCOL_$_MDCElevationOverriding
+__OBJC_CLASS_PROTOCOLS_$_MDCTabBar
+__OBJC_METACLASS_RO_$_MDCTabBar
+__OBJC_$_INSTANCE_METHODS_MDCTabBar
+__OBJC_$_INSTANCE_VARIABLES_MDCTabBar
+__OBJC_$_PROP_LIST_MDCTabBar
+__OBJC_CLASS_RO_$_MDCTabBar
+_OBJC_CLASSLIST_REFERENCES_$_.391
+_OBJC_SELECTOR_REFERENCES_.393
+_OBJC_SELECTOR_REFERENCES_.397
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/MDCTabBar.m
+RippleColor
+MaterialComponents/components/Tabs/src/MDCTabBar.m
+MaterialComponents/components/Tabs/src/MDCTabBar.h
+MDCItemBarAlignmentForTabBarAlignment
+-[MDCTabBarIndicatorAttributes copyWithZone:]
+-[MDCTabBarIndicatorAttributes description]
+-[MDCTabBarIndicatorAttributes isEqual:]
+-[MDCTabBarIndicatorAttributes hash]
+-[MDCTabBarIndicatorAttributes path]
+-[MDCTabBarIndicatorAttributes setPath:]
+-[MDCTabBarIndicatorAttributes .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_MDCTabBarIndicatorAttributes
+__OBJC_METACLASS_RO_$_MDCTabBarIndicatorAttributes
+__OBJC_$_INSTANCE_METHODS_MDCTabBarIndicatorAttributes
+_OBJC_IVAR_$_MDCTabBarIndicatorAttributes._path
+__OBJC_$_INSTANCE_VARIABLES_MDCTabBarIndicatorAttributes
+__OBJC_$_PROP_LIST_MDCTabBarIndicatorAttributes
+__OBJC_CLASS_RO_$_MDCTabBarIndicatorAttributes
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/MDCTabBarIndicatorAttributes.m
+MaterialComponents/components/Tabs/src/MDCTabBarIndicatorAttributes.m
+MaterialComponents/components/Tabs/src/MDCTabBarIndicatorAttributes.h
+-[MDCTabBarIndicatorView initWithFrame:]
+-[MDCTabBarIndicatorView initWithCoder:]
+-[MDCTabBarIndicatorView applySelectionIndicatorAttributes:]
+-[MDCTabBarIndicatorView commonMDCTabBarIndicatorViewInit]
+-[MDCTabBarIndicatorView .cxx_destruct]
+-[MDCTabBarIndicatorShapeView layoutSubviews]
+-[MDCTabBarIndicatorShapeView path]
+-[MDCTabBarIndicatorShapeView setPath:]
+-[MDCTabBarIndicatorShapeView actionForLayer:forKey:]
++[MDCTabBarIndicatorShapeView layerClass]
+-[MDCTabBarIndicatorShapeView tintColorDidChange]
+-[MDCTabBarIndicatorShapeView updateShapeLayerFillColor]
+_OBJC_IVAR_$_MDCTabBarIndicatorView._shapeView
+__OBJC_METACLASS_RO_$_MDCTabBarIndicatorView
+__OBJC_$_INSTANCE_METHODS_MDCTabBarIndicatorView
+__OBJC_$_INSTANCE_VARIABLES_MDCTabBarIndicatorView
+__OBJC_CLASS_RO_$_MDCTabBarIndicatorView
+__OBJC_$_CLASS_METHODS_MDCTabBarIndicatorShapeView
+__OBJC_METACLASS_RO_$_MDCTabBarIndicatorShapeView
+__OBJC_$_INSTANCE_METHODS_MDCTabBarIndicatorShapeView
+__OBJC_$_PROP_LIST_MDCTabBarIndicatorShapeView
+__OBJC_CLASS_RO_$_MDCTabBarIndicatorShapeView
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/private/MDCTabBarIndicatorView.m
+MaterialComponents/components/Tabs/src/private/MDCTabBarIndicatorView.m
+-[MDCTabBarPrivateIndicatorContext initWithItem:bounds:contentFrame:]
+-[MDCTabBarPrivateIndicatorContext description]
+-[MDCTabBarPrivateIndicatorContext isEqual:]
+-[MDCTabBarPrivateIndicatorContext hash]
+-[MDCTabBarPrivateIndicatorContext bounds]
+-[MDCTabBarPrivateIndicatorContext contentFrame]
+-[MDCTabBarPrivateIndicatorContext item]
+-[MDCTabBarPrivateIndicatorContext .cxx_destruct]
+__OBJC_$_PROTOCOL_REFS_MDCTabBarIndicatorContext
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_MDCTabBarIndicatorContext
+__OBJC_$_PROP_LIST_MDCTabBarIndicatorContext
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCTabBarIndicatorContext
+__OBJC_PROTOCOL_$_MDCTabBarIndicatorContext
+__OBJC_LABEL_PROTOCOL_$_MDCTabBarIndicatorContext
+__OBJC_CLASS_PROTOCOLS_$_MDCTabBarPrivateIndicatorContext
+__OBJC_METACLASS_RO_$_MDCTabBarPrivateIndicatorContext
+__OBJC_$_INSTANCE_METHODS_MDCTabBarPrivateIndicatorContext
+_OBJC_IVAR_$_MDCTabBarPrivateIndicatorContext._item
+_OBJC_IVAR_$_MDCTabBarPrivateIndicatorContext._bounds
+_OBJC_IVAR_$_MDCTabBarPrivateIndicatorContext._contentFrame
+__OBJC_$_INSTANCE_VARIABLES_MDCTabBarPrivateIndicatorContext
+__OBJC_$_PROP_LIST_MDCTabBarPrivateIndicatorContext
+__OBJC_CLASS_RO_$_MDCTabBarPrivateIndicatorContext
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/private/MDCTabBarPrivateIndicatorContext.m
+MaterialComponents/components/Tabs/src/private/MDCTabBarPrivateIndicatorContext.m
+-[MDCTabBarUnderlineIndicatorTemplate indicatorAttributesForContext:]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+__OBJC_$_PROTOCOL_REFS_MDCTabBarIndicatorTemplate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_MDCTabBarIndicatorTemplate
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCTabBarIndicatorTemplate
+__OBJC_PROTOCOL_$_MDCTabBarIndicatorTemplate
+__OBJC_LABEL_PROTOCOL_$_MDCTabBarIndicatorTemplate
+__OBJC_CLASS_PROTOCOLS_$_MDCTabBarUnderlineIndicatorTemplate
+__OBJC_METACLASS_RO_$_MDCTabBarUnderlineIndicatorTemplate
+__OBJC_$_INSTANCE_METHODS_MDCTabBarUnderlineIndicatorTemplate
+__OBJC_$_PROP_LIST_MDCTabBarUnderlineIndicatorTemplate
+__OBJC_CLASS_RO_$_MDCTabBarUnderlineIndicatorTemplate
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/MDCTabBarUnderlineIndicatorTemplate.m
+MaterialComponents/components/Tabs/src/MDCTabBarUnderlineIndicatorTemplate.m
++[MDCTabBarShadowView layerClass]
+-[MDCTabBarShadowView initWithFrame:]
+-[MDCTabBarShadowView initWithCoder:]
+-[MDCTabBarShadowView commonMDCTabBarShadowViewInitialization]
+-[MDCTabBarViewController initWithCoder:]
+-[MDCTabBarViewController init]
+-[MDCTabBarViewController initWithNibName:bundle:]
+-[MDCTabBarViewController commonInit]
+-[MDCTabBarViewController viewDidLoad]
+-[MDCTabBarViewController viewDidLayoutSubviews]
+-[MDCTabBarViewController traitCollectionDidChange:]
+-[MDCTabBarViewController tabBarHidden]
+-[MDCTabBarViewController setTabBarHidden:]
+-[MDCTabBarViewController setTabBarHidden:animated:]
+___52-[MDCTabBarViewController setTabBarHidden:animated:]_block_invoke
+___52-[MDCTabBarViewController setTabBarHidden:animated:]_block_invoke.65
+-[MDCTabBarViewController setViewControllers:]
+-[MDCTabBarViewController updateOldViewControllers:to:]
+-[MDCTabBarViewController updateOldSelectedViewController:to:]
+-[MDCTabBarViewController setSelectedViewController:]
+-[MDCTabBarViewController transitionViewsWithoutAnimationFromViewController:toViewController:]
+-[MDCTabBarViewController updateTabBarItems]
+-[MDCTabBarViewController controllerWithView:]
+-[MDCTabBarViewController updateLayout]
+-[MDCTabBarViewController tabBar:shouldSelectItem:]
+-[MDCTabBarViewController tabBar:didSelectItem:]
+-[MDCTabBarViewController positionForBar:]
+-[MDCTabBarViewController childViewControllerForStatusBarStyle]
+-[MDCTabBarViewController childViewControllerForStatusBarHidden]
+-[MDCTabBarViewController delegate]
+-[MDCTabBarViewController setDelegate:]
+-[MDCTabBarViewController viewControllers]
+-[MDCTabBarViewController selectedViewController]
+-[MDCTabBarViewController tabBar]
+-[MDCTabBarViewController setTabBar:]
+-[MDCTabBarViewController traitCollectionDidChangeBlock]
+-[MDCTabBarViewController setTraitCollectionDidChangeBlock:]
+-[MDCTabBarViewController .cxx_destruct]
+__OBJC_$_CLASS_METHODS_MDCTabBarShadowView
+__OBJC_METACLASS_RO_$_MDCTabBarShadowView
+__OBJC_$_INSTANCE_METHODS_MDCTabBarShadowView
+__OBJC_CLASS_RO_$_MDCTabBarShadowView
+_OBJC_IVAR_$_MDCTabBarViewController._tabBarShadow
+_OBJC_IVAR_$_MDCTabBarViewController._viewControllers
+_OBJC_IVAR_$_MDCTabBarViewController._selectedViewController
+_OBJC_IVAR_$_MDCTabBarViewController._tabBar
+_OBJC_IVAR_$_MDCTabBarViewController._tabBarWantsToBeHidden
+___block_descriptor_41_e8_32s_e8_v12?0B8l
+_OBJC_CLASSLIST_REFERENCES_$_.113
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_IVAR_$_MDCTabBarViewController._delegate
+_OBJC_IVAR_$_MDCTabBarViewController._traitCollectionDidChangeBlock
+__OBJC_$_PROTOCOL_REFS_UIBarPositioningDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIBarPositioningDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIBarPositioningDelegate
+__OBJC_PROTOCOL_$_UIBarPositioningDelegate
+__OBJC_LABEL_PROTOCOL_$_UIBarPositioningDelegate
+__OBJC_$_PROTOCOL_REFS_MDCTabBarDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_MDCTabBarDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCTabBarDelegate
+__OBJC_PROTOCOL_$_MDCTabBarDelegate
+__OBJC_LABEL_PROTOCOL_$_MDCTabBarDelegate
+__OBJC_CLASS_PROTOCOLS_$_MDCTabBarViewController
+__OBJC_METACLASS_RO_$_MDCTabBarViewController
+__OBJC_$_INSTANCE_METHODS_MDCTabBarViewController
+__OBJC_$_INSTANCE_VARIABLES_MDCTabBarViewController
+__OBJC_$_PROP_LIST_MDCTabBarViewController
+__OBJC_CLASS_RO_$_MDCTabBarViewController
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Tabs/src/MDCTabBarViewController.m
+MaterialComponents/components/Tabs/src/MDCTabBarViewController.m
+MaterialComponents/components/Tabs/src/MDCTabBarViewController.h
+__52-[MDCTabBarViewController setTabBarHidden:animated:]_block_invoke.65
+__52-[MDCTabBarViewController setTabBarHidden:animated:]_block_invoke
++[MDCTypography setFontLoader:]
++[MDCTypography fontLoader]
+___27+[MDCTypography fontLoader]_block_invoke
++[MDCTypography display4Font]
++[MDCTypography display4FontOpacity]
++[MDCTypography display3Font]
++[MDCTypography display3FontOpacity]
++[MDCTypography display2Font]
++[MDCTypography display2FontOpacity]
++[MDCTypography display1Font]
++[MDCTypography display1FontOpacity]
++[MDCTypography headlineFont]
++[MDCTypography headlineFontOpacity]
++[MDCTypography titleFont]
++[MDCTypography titleFontOpacity]
++[MDCTypography subheadFont]
++[MDCTypography subheadFontOpacity]
++[MDCTypography body2Font]
++[MDCTypography body2FontOpacity]
++[MDCTypography body1Font]
++[MDCTypography body1FontOpacity]
++[MDCTypography captionFont]
++[MDCTypography captionFontOpacity]
++[MDCTypography buttonFont]
++[MDCTypography buttonFontOpacity]
++[MDCTypography isLargeForContrastRatios:]
++[MDCTypography italicFontFromFont:]
++[MDCTypography boldFontFromFont:]
++[MDCTypography defaultFontLoader]
+-[MDCSystemFontLoader init]
+-[MDCSystemFontLoader didChangeContentSizeCategory]
+-[MDCSystemFontLoader lightFontOfSize:]
+-[MDCSystemFontLoader regularFontOfSize:]
+-[MDCSystemFontLoader mediumFontOfSize:]
+-[MDCSystemFontLoader boldFontOfSize:]
+-[MDCSystemFontLoader italicFontOfSize:]
+-[MDCSystemFontLoader boldItalicFontOfSize:]
+-[MDCSystemFontLoader isLargeForContrastRatios:]
+-[MDCSystemFontLoader fontCache]
+-[MDCSystemFontLoader setFontCache:]
+-[MDCSystemFontLoader .cxx_destruct]
+_gFontLoader
+_fontLoader.onceToken
+__OBJC_$_CLASS_METHODS_MDCTypography
+__OBJC_METACLASS_RO_$_MDCTypography
+__OBJC_CLASS_RO_$_MDCTypography
+_OBJC_CLASSLIST_REFERENCES_$_.77
+_OBJC_CLASSLIST_REFERENCES_$_.84
+__OBJC_$_PROTOCOL_REFS_MDCTypographyFontLoading
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_MDCTypographyFontLoading
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_MDCTypographyFontLoading
+__OBJC_$_PROTOCOL_METHOD_TYPES_MDCTypographyFontLoading
+__OBJC_PROTOCOL_$_MDCTypographyFontLoading
+__OBJC_LABEL_PROTOCOL_$_MDCTypographyFontLoading
+__OBJC_CLASS_PROTOCOLS_$_MDCSystemFontLoader
+__OBJC_METACLASS_RO_$_MDCSystemFontLoader
+__OBJC_$_INSTANCE_METHODS_MDCSystemFontLoader
+_OBJC_IVAR_$_MDCSystemFontLoader._fontCache
+__OBJC_$_INSTANCE_VARIABLES_MDCSystemFontLoader
+__OBJC_$_PROP_LIST_MDCSystemFontLoader
+__OBJC_CLASS_RO_$_MDCSystemFontLoader
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Typography/src/MDCTypography.m
+MaterialComponents/components/Typography/src/MDCTypography.m
+__27+[MDCTypography fontLoader]_block_invoke
+_OBJC_CLASSLIST_REFERENCES_$_.5
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Typography/src/private/MDCTypographyUtilities.m
+GetCurrentSizeCategory
+MaterialComponents/components/Typography/src/private/MDCTypographyUtilities.m
++[UIApplication(AppExtensions) mdc_safeSharedApplication]
+___57+[UIApplication(AppExtensions) mdc_safeSharedApplication]_block_invoke
++[UIApplication(AppExtensions) mdc_isAppExtension]
+___50+[UIApplication(AppExtensions) mdc_isAppExtension]_block_invoke
+_mdc_safeSharedApplication.application
+_mdc_safeSharedApplication.onceToken
+_mdc_isAppExtension.isAppExtension
+_mdc_isAppExtension.onceToken
+__OBJC_$_CATEGORY_CLASS_METHODS_UIApplication_$_AppExtensions
+__OBJC_$_CATEGORY_UIApplication_$_AppExtensions
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/private/Application/src/UIApplication+AppExtensions.m
+__50+[UIApplication(AppExtensions) mdc_isAppExtension]_block_invoke
+MaterialComponents/components/private/Application/src/UIApplication+AppExtensions.m
+__57+[UIApplication(AppExtensions) mdc_safeSharedApplication]_block_invoke
++[UIColor(MaterialBlending) mdc_blendColor:withBackgroundColor:]
+_blendColorChannel
+__OBJC_$_CATEGORY_CLASS_METHODS_UIColor_$_MaterialBlending
+__OBJC_$_CATEGORY_UIColor_$_MaterialBlending
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/private/Color/src/UIColor+MaterialBlending.m
+blendColorChannel
+MaterialComponents/components/private/Color/src/UIColor+MaterialBlending.m
++[UIColor(MaterialDynamic) colorWithUserInterfaceStyleDarkColor:defaultColor:]
+___78+[UIColor(MaterialDynamic) colorWithUserInterfaceStyleDarkColor:defaultColor:]_block_invoke
+-[UIColor(MaterialDynamic) mdc_resolvedColorWithTraitCollection:]
+___block_descriptor_48_e8_32s40s_e36_"UIColor"16?0"UITraitCollection"8l
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIColor_$_MaterialDynamic
+__OBJC_$_CATEGORY_CLASS_METHODS_UIColor_$_MaterialDynamic
+__OBJC_$_CATEGORY_UIColor_$_MaterialDynamic
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/private/Color/src/UIColor+MaterialDynamic.m
+MaterialComponents/components/private/Color/src/UIColor+MaterialDynamic.m
+__78+[UIColor(MaterialDynamic) colorWithUserInterfaceStyleDarkColor:defaultColor:]_block_invoke
+-[UIColor(MaterialElevation) mdc_resolvedColorWithTraitCollection:previousTraitCollection:elevation:]
+-[UIColor(MaterialElevation) mdc_resolvedColorWithTraitCollection:elevation:]
+-[UIColor(MaterialElevation) mdc_resolvedColorWithElevation:]
+_MDCPow
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIColor_$_MaterialElevation
+__OBJC_$_CATEGORY_UIColor_$_MaterialElevation
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Elevation/src/UIColor+MaterialElevation.m
+MDCPow
+MaterialComponents/components/Elevation/src/UIColor+MaterialElevation.m
+-[UIFont(MaterialScalable) mdc_scaledFontForSizeCategory:]
+-[UIFont(MaterialScalable) mdc_scaledFontForTraitEnvironment:]
+-[UIFont(MaterialScalable) mdc_scaledFontForCurrentSizeCategory]
+-[UIFont(MaterialScalable) mdc_scaledFontAtDefaultSize]
+-[UIFont(MaterialScalable) mdc_scalingCurve]
+-[UIFont(MaterialScalable) mdc_setScalingCurve:]
+_OBJC_CLASSLIST_REFERENCES_$_.15
+_MDCFontScaleObjectKey
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIFont_$_MaterialScalable
+__OBJC_$_PROP_LIST_UIFont_$_MaterialScalable
+__OBJC_$_CATEGORY_UIFont_$_MaterialScalable
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Typography/src/UIFont+MaterialScalable.m
+MaterialComponents/components/Typography/src/UIFont+MaterialScalable.m
+-[UIFont(MaterialSimpleEquality) mdc_isSimplyEqual:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIFont_$_MaterialSimpleEquality
+__OBJC_$_CATEGORY_UIFont_$_MaterialSimpleEquality
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Typography/src/UIFont+MaterialSimpleEquality.m
+MaterialComponents/components/Typography/src/UIFont+MaterialSimpleEquality.m
++[UIFont(MaterialTypography) mdc_preferredFontForMaterialTextStyle:]
++[UIFont(MaterialTypography) mdc_standardFontForMaterialTextStyle:]
+___67+[UIFont(MaterialTypography) mdc_standardFontForMaterialTextStyle:]_block_invoke
+-[UIFont(MaterialTypography) mdc_fontSizedForMaterialTextStyle:scaledForDynamicType:]
+_mdc_standardFontForMaterialTextStyle:.fontCache
+_mdc_standardFontForMaterialTextStyle:.onceToken
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIFont_$_MaterialTypography
+__OBJC_$_CATEGORY_CLASS_METHODS_UIFont_$_MaterialTypography
+__OBJC_$_CATEGORY_UIFont_$_MaterialTypography
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Typography/src/UIFont+MaterialTypography.m
+MaterialComponents/components/Typography/src/UIFont+MaterialTypography.m
+__67+[UIFont(MaterialTypography) mdc_standardFontForMaterialTextStyle:]_block_invoke
++[UIFont(MaterialTypographyPrivate) mdc_fontWeightDescription:]
+-[UIFont(MaterialTypographyPrivate) mdc_weight]
+-[UIFont(MaterialTypographyPrivate) mdc_slant]
+-[UIFont(MaterialTypographyPrivate) mdc_weightString]
+-[UIFont(MaterialTypographyPrivate) mdc_extendedDescription]
+_OBJC_CLASSLIST_REFERENCES_$_.29
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIFont_$_MaterialTypographyPrivate
+__OBJC_$_CATEGORY_CLASS_METHODS_UIFont_$_MaterialTypographyPrivate
+__OBJC_$_CATEGORY_UIFont_$_MaterialTypographyPrivate
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Typography/src/private/UIFont+MaterialTypographyPrivate.m
+MaterialComponents/components/Typography/src/private/UIFont+MaterialTypographyPrivate.m
++[UIFontDescriptor(MaterialTypography) mdc_fontDescriptorForMaterialTextStyle:sizeCategory:]
+___92+[UIFontDescriptor(MaterialTypography) mdc_fontDescriptorForMaterialTextStyle:sizeCategory:]_block_invoke
++[UIFontDescriptor(MaterialTypography) mdc_preferredFontDescriptorForMaterialTextStyle:]
++[UIFontDescriptor(MaterialTypography) mdc_standardFontDescriptorForMaterialTextStyle:]
+_mdc_fontDescriptorForMaterialTextStyle:sizeCategory:.smallSystemFontFamilyName
+_mdc_fontDescriptorForMaterialTextStyle:sizeCategory:.largeSystemFontFamilyName
+_mdc_fontDescriptorForMaterialTextStyle:sizeCategory:.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.26
+__OBJC_$_CATEGORY_CLASS_METHODS_UIFontDescriptor_$_MaterialTypography
+__OBJC_$_CATEGORY_UIFontDescriptor_$_MaterialTypography
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Typography/src/UIFontDescriptor+MaterialTypography.m
+MaterialComponents/components/Typography/src/UIFontDescriptor+MaterialTypography.m
+__92+[UIFontDescriptor(MaterialTypography) mdc_fontDescriptorForMaterialTextStyle:sizeCategory:]_block_invoke
+-[UIView(MaterialElevationResponding) mdc_elevationDidChange]
+-[UIView(MaterialElevationResponding) mdc_elevationDidChangeWithBaseElevation:]
+-[UIView(MaterialElevationResponding) mdc_baseElevation]
+-[UIView(MaterialElevationResponding) mdc_absoluteElevation]
+-[UIView(MaterialElevationResponding) objectConformingToOverrideInResponderChain]
+-[UIView(MaterialElevationResponding) objectConformingToElevationInResponderChain]
+__OBJC_PROTOCOL_REFERENCE_$_MDCElevationOverriding
+__OBJC_PROTOCOL_REFERENCE_$_MDCElevatable
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIView_$_MaterialElevationResponding
+__OBJC_$_PROP_LIST_UIView_$_MaterialElevationResponding
+__OBJC_$_CATEGORY_UIView_$_MaterialElevationResponding
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/Elevation/src/UIView+MaterialElevationResponding.m
+MaterialComponents/components/Elevation/src/UIView+MaterialElevationResponding.m
++[UIView(MDCTimingFunction) mdc_animateWithTimingFunction:duration:delay:options:animations:completion:]
+__OBJC_$_CATEGORY_CLASS_METHODS_UIView_$_MDCTimingFunction
+__OBJC_$_CATEGORY_UIView_$_MDCTimingFunction
+/Users/misiak/Desktop/2021/nativescript-musapp-demo/platforms/ios/Pods/MaterialComponents/components/AnimationTiming/src/UIView+MDCTimingFunction.m
+MaterialComponents/components/AnimationTiming/src/UIView+MDCTimingFunction.m

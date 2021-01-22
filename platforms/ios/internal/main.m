@@ -1,62 +1,62 @@
 //
 // Any changes in this file will be removed after you update your platform!
 //
+#import <UIKit/UIKit.h>
+#import <NativeScript/NativeScript.h>
 
-#include "TNSExceptionHandler.h"
-#include <Foundation/Foundation.h>
-#include <JavaScriptCore/JavaScriptCore.h>
-#include <NativeScript/NativeScript.h>
+#ifdef DEBUG
+#include <notify.h>
+#include <TKLiveSync/TKLiveSync.h>
 
-#if DEBUG
-#include "TNSDebugging.h"
-#include "TKLiveSync/include/TKLiveSync.h"
+#define NOTIFICATION(name)                                                      \
+    [[NSString stringWithFormat:@"%@:NativeScript.Debug.%s",                    \
+        [[NSBundle mainBundle] bundleIdentifier], name] UTF8String]
 #endif
+
+extern char startOfMetadataSection __asm("section$start$__DATA$__TNSMetadata");
 
 int main(int argc, char *argv[]) {
-  @autoreleasepool {
-    TNSRuntime *runtime = [TNSRuntimeInstrumentation
-          profile:@"main"
-        withBlock:^{
-          __block NSString *applicationPath = [NSBundle mainBundle].bundlePath;
+    @autoreleasepool {
+        NSString* baseDir = [[NSBundle mainBundle] resourcePath];
 
-#if DEBUG
-          [TNSRuntimeInstrumentation
-                profile:@"Debug: Lifesync & Syslog"
-              withBlock:^{
-                TNSInitializeLiveSync();
-                if (getenv("TNSApplicationPath")) {
-                  applicationPath = @(getenv("TNSApplicationPath"));
-                }
-                [TNSRuntimeInstrumentation
-                    initWithApplicationPath:applicationPath];
-                [TNSRuntimeInspector setLogsToSystemConsole:YES];
-                return (id)nil;
-              }];
+#ifdef DEBUG
+        int refreshRequestSubscription;
+        notify_register_dispatch(NOTIFICATION("RefreshRequest"), &refreshRequestSubscription, dispatch_get_main_queue(), ^(int token) {
+            notify_post(NOTIFICATION("AppRefreshStarted"));
+            bool success = [NativeScript liveSync];
+            if (success) {
+                notify_post(NOTIFICATION("AppRefreshSucceeded"));
+            } else {
+                NSLog(@"__onLiveSync call failed");
+                notify_post(NOTIFICATION("AppRefreshFailed"));
+            }
+        });
+
+        TNSInitializeLiveSync();
+        if (getenv("TNSBaseDir")) {
+            baseDir = @(getenv("TNSBaseDir"));
+        }
 #endif
 
-          extern char startOfMetadataSection __asm(
-              "section$start$__DATA$__TNSMetadata");
-          [TNSRuntime initializeMetadata:&startOfMetadataSection];
-          TNSRuntime *runtime =
-              [[TNSRuntime alloc] initWithApplicationPath:applicationPath];
-          [runtime scheduleInRunLoop:[NSRunLoop currentRunLoop]
-                             forMode:NSRunLoopCommonModes];
+        void* metadataPtr = &startOfMetadataSection;
 
-#if DEBUG
-          [TNSRuntimeInstrumentation
-                profile:@"Debug: Wait for JavaScript debugger"
-              withBlock:^{
-                TNSEnableRemoteInspector(argc, argv, runtime);
-                return (id)nil;
-              }];
+        bool isDebug =
+#ifdef DEBUG
+            true;
+#else
+            false;
 #endif
 
-          TNSInstallExceptionHandler();
-          return runtime;
-        }];
+        Config* config = [[Config alloc] init];
+        config.IsDebug = isDebug;
+        config.LogToSystemConsole = isDebug;
+        config.MetadataPtr = metadataPtr;
+        config.BaseDir = baseDir;
+        config.ArgumentsCount = argc;
+        config.Arguments = argv;
 
-    [runtime executeModule:@"./"];
+        [NativeScript start:config];
 
-    return 0;
-  }
+        return 0;
+    }
 }

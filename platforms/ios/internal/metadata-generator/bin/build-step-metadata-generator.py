@@ -109,9 +109,13 @@ def generate_metadata(arch):
     # clang arguments
     generator_call.extend(["Xclang",
                            "-isysroot", sdk_root,
-                           "-arch", arch,
                            "-" + deployment_target_flag_name + "=" + deployment_target,
                            "-std=" + std])
+
+    if env_or_empty("IS_UIKITFORMAC").capitalize() is "YES":
+      generator_call.extend(["-arch", arch])
+    else:
+      generator_call.extend(["-target", "{}-apple-ios13.0-macabi".format(arch)])
 
     generator_call.extend(header_search_paths_parsed)  # HEADER_SEARCH_PATHS
     generator_call.extend(framework_search_paths_parsed)  # FRAMEWORK_SEARCH_PATHS
